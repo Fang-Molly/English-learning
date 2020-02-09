@@ -1,7 +1,15 @@
 # Daily English 1 – Introducing Yourself
 
-
 I was born and raised in Minnesota and I’m a native of the city of Saint Paul. I grew up there with my parents and my eight brothers and two sisters. I’m the eleventh child, so you could say I’m the baby of the family, but I swear I wasn’t spoiled.
+
+* born
+* raise
+* native
+* grow up
+* younger/ elder brother
+* the baby of the family
+* spoil
+
 
 That’s right, I’m part of a big family, probably the biggest family in the neighborhood, perhaps the biggest family in the state!
 
