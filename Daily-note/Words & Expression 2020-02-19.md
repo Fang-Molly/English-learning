@@ -8,3 +8,11 @@
 
 >> They have expensive tastes.
 ----------
+2. **real estate**
+
+> n. property consisiting of buildings and land
+
+>> a real estate broker/business/investment
+
+>> real estate price/values
+---------
