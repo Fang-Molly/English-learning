@@ -4,7 +4,10 @@
 
 Claire : Kids, breakfast! Kids? Phil, **would you get them?**
 
-> **Would you get them?**
+> 1. **Would you get them?**
+
+>> Would you do sth.?  
+>> get sb.
 
 
 Phil : Yeah, just a sec.
