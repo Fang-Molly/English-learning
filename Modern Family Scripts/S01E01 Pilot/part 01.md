@@ -1,21 +1,22 @@
+"""
 
+Modern Family Scripts   
 
-	Modern Family Scripts   
+S01E01 Pilot   
 
-	S01E01 Pilot   
+Part 01  
 
-	Part 01  
+written by 2020/06/30   
 
-	written by 2020/06/30   
-
+"""
 
 
 Claire : Kids, breakfast! Kids? Phil, **would you get them?**
 
-	* ***Would you do sth?*** -- used to ask sb politely to do sth  
-
-	    * Would you open the door for me, please?
-	    * Would you mind leaving us alone for a few minutes?
+> * ***Would you do sth?*** -- used to ask sb politely to do sth  
+>
+>    * Would you open the door for me, please?
+>    * Would you mind leaving us alone for a few minutes?
 
 > * ***get sb*** -- go to a place and bring sb back
 >
