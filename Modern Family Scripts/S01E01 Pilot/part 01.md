@@ -12,10 +12,10 @@
 
 Claire : Kids, breakfast! Kids? Phil, **would you get them?**
 
-> * ***Would you do sth?*** -- used to ask sb politely to do sth  
->
->    * Would you open the door for me, please?
->    * Would you mind leaving us alone for a few minutes?
+	* ***Would you do sth?*** -- used to ask sb politely to do sth  
+
+	    * Would you open the door for me, please?
+	    * Would you mind leaving us alone for a few minutes?
 
 > * ***get sb*** -- go to a place and bring sb back
 >
