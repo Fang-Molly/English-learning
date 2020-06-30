@@ -1,9 +1,6 @@
+# Modern Family Scripts -- S01E01 Pilot   
 
-# Modern Family Scripts
-
-## S01E01 Pilot
-
-----------
+## 01
 
 Claire : Kids, breakfast! Kids? Phil, would you get them?
 
