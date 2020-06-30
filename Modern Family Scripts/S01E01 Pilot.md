@@ -4,9 +4,11 @@
 
 Claire : Kids, breakfast! Kids? Phil, **would you get them?**
 
->   * ***Would you do sth.?***
+> * ***Would you do sth?***  used to ask sb politely to do sth
+       
+>    * Would you open the door for me, please?
 
->   * ***get sb. ***
+> * ***get sb***
 
 
 Phil : Yeah, just a sec.
