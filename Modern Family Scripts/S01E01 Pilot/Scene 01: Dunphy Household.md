@@ -1,11 +1,13 @@
 ```
-Modern  Family Scripts  S01E01 Pilot  Part 01   
+Modern  Family Scripts  S01E01 Pilot 
+
+Scene 01 : Dunphy Household
 
 written by 2020/06/30   
 ```
 
 
-Claire : Kids, breakfast! Kids? Phil, **would you get them?**
+Claire : Kids, breakfast! Kids! Ugh, Phil, **would you get them?**
 
 > * ***Would you do sth?*** -- used to ask sb politely to do sth  
 >
@@ -18,7 +20,7 @@ Claire : Kids, breakfast! Kids? Phil, **would you get them?**
 >    * I have to go and get my mother from the airport.
 >    * She's just gone to get the kids from school.
 
-Phil : Yeah, **just a sec.**
+Phil : (busy on cellphone) Yeah, **just a sec.**
 
 > * ***sec.*** -- abbr. second(s)
 >
@@ -35,20 +37,16 @@ Phil : Yeah, **just a sec.**
 >    * have a sec
 >       * Do you have a sec?
 
-Claire : Kids!
+Claire : Kids! (drops container) Okay.
 
-Phil : That is so, ..
-
-Claire : Okay...
-
-Phil : Kids, **get down here!**
+Phil : That is so ... Kids! **Get down here!**
 
 > * ***get down here***
 >
 >    * Would you get down here and help me?
 >    * You better get down here as soon as you can.
 
-Haley : **Why are you guys yelling at us, when we're way upstairs, just text me.**
+Haley : (enters) **Why are you guys yelling at us when we're way upstairs? Just text me.**
 
 > * ***(you) guys*** -- used when talking to or about a group of people, male or female
 >
@@ -102,7 +100,7 @@ Claire : Honey, **do you have anything to say to your daughter...about her skirt
 >
 >    * Do you have anything to say that has anything to do with what I'm talking about?
 
-Phil : Sorry? Oh yeah, that looks really cute sweetheart!
+Phil : (looks up from cellphone) Sorry. Oh yeah, it looks really cute, sweetheart!
 
 Haley : Thanks!
 
@@ -124,7 +122,7 @@ Claire : No, **it's way too short**, people know you're a girl, **you don't need
 >    * There was no way I could prove it to Eddie.
 >    * She was determined to prove to her parents that she could live on her own.
 
-Alex: **Luke got his head stuck in the banister again.**
+Alex: (enters) **Luke got his head stuck in the banister again.**
 
 > * ***got sth stuck in sth***
 >    
@@ -138,9 +136,11 @@ Alex: **Luke got his head stuck in the banister again.**
 
 Phil : I got it. Where's the baby oil?
 
-Claire : It's on our bedside tip... I Don't know, find it. Come on!
+Claire : It's on our bedside tab...(mutters) I Don't know, find it.(walks into cupboard door) Come on!
 
-Claire : **I... was out of control growing up**, there, you know, i said it. I...I, **I just don't want my kids to make the same bad mistakes I made. If Haley never would exhibit on a beach in Florida, half naked**...**I've done my job.**
+(Commentary)
+
+Claire : **I... was out of control growing up**, there, you know, i said it. I...I, **I just don't want my kids to make the same bad mistakes I made. If Haley never wakes up on a beach in Florida half naked**...**I've done my job.**
 
 > * ***be/get/run out of control (doing sth)***
 >
@@ -157,11 +157,6 @@ Claire : **I... was out of control growing up**, there, you know, i said it. I..
 >    * make the same mistake (again/twice)
 >    * big/terrible/bad etc mistake
 >    * make the same bad mistakes I made
-
-> * ***exhibit*** -- show sth in public place for people to enjoy or to give them information
->
->    * They will be exhibiting their new designs at the trade fairs.
->    * Her paintings have been exhibited all over the world.
 
 > * ***naked*** -- adj. not wearing any clothes
 > 
