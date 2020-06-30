@@ -1,6 +1,13 @@
-# Modern Family Scripts -- S01E01 Pilot   
+'''
+Modern Family Scripts 
 
-## Part 01
+S01E01 Pilot 
+
+Part 01
+
+written by 2020/06/30
+'''
+
 
 Claire : Kids, breakfast! Kids? Phil, **would you get them?**
 
