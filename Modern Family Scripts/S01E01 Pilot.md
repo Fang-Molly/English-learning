@@ -4,13 +4,21 @@
 
 Claire : Kids, breakfast! Kids? Phil, **would you get them?**
 
-> * ***Would you do sth?*** used to ask sb politely to do sth      
->    * e.g. Would you open the door for me, please?
+> * ***Would you do sth?*** -- used to ask sb politely to do sth  
+>
+>    * Would you open the door for me, please?
+>    * Would you mind leaving us alone for a few minutes?
 
-> * ***get sb***
-
+> * ***get sb*** -- go to a place and bring sb back
+>
+>    * Somebody get a doctor!
+>    * I have to go and get my mother from the airport.
+>    * She's just gone to get the kids from school.
 
 Phil : Yeah, just a sec.
+
+> * ***Just a sec.***
+>    * 
 
 Claire : Kids!
 
