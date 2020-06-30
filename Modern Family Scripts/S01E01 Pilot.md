@@ -5,8 +5,8 @@
 Claire : Kids, breakfast! Kids? Phil, **would you get them?**
 
 > * ***Would you do sth?***  
->    * ex. used to ask sb politely to do sth      
->    * e.g. Would you open the door for me, please?
+    * ex. used to ask sb politely to do sth      
+    * e.g. Would you open the door for me, please?
 
 > * ***get sb***
 
