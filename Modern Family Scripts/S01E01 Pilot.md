@@ -4,9 +4,9 @@
 
 Claire : Kids, breakfast! Kids? Phil, **would you get them?**
 
->   * Would you do sth.?  
+>   * ***Would you do sth.?***
 
->   * get sb.
+>   * ***get sb. ***
 
 
 Phil : Yeah, just a sec.
