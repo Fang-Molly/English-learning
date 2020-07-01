@@ -6,7 +6,9 @@ Scene 02 : Soccer Match
 written by 2020/07/01 
 ```
 
-Gloria: Bravo, Manny! Kick it, kick it! Don’t let him- kick it! Manito! (says something in Spanish) No! No, no! He tripped him, Jay. Where is the penalty?
+Gloria: Bravo, Manny! Kick it, kick it! Don’t let him kick it! Manito! (says something in Spanish) No! No, no! He **tripped** him, Jay. Where is the **penalty**?
+
+> 
 
 Jay: Gloria, they’re 0-6. Let’s take it down a notch.
 
