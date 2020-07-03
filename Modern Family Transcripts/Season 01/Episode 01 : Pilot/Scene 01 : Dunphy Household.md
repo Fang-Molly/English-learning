@@ -128,7 +128,6 @@ Alex: (enters) **Luke got his head stuck in the banister again.**
 >    
 >    * I got the key stuck in the lock.
 >    * I've got something stuck in my throat.
->    * We were/got stuck in traffic for over an hour.
 
 > * ***banister*** -- the posts and rail which you can hold for support when going up or down stairs
 >
