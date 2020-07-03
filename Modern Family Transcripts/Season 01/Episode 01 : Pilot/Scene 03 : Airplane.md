@@ -41,10 +41,6 @@ Man: Oh, she’s an angel. You and your wife must be so **thrilled**.
 > * ***thrilled*** -- adj. very excited and pleased
 >    
 >    * He was thrilled at the prospect of seeing them again.
->    
-> * ***be thrilled to see/hear/learn etc sth***
->
->    * We were so thrilled to hear about the baby.
 
 Cameron: (enters) Sorry, sorry, sorry. Daddy needed snacks. Hi. (fumbles his way to his seat; granny and man look away uncomfortably) So, what are we talking about?
 
@@ -67,6 +63,10 @@ Cameron: **Then we figured they’re already mean enough; can you imagine one of
 > * ***Can you imagine ... ?***
 >
 > * Can you imagine what it must be like to lose your job after 20 years?
+>
+> * ***imagine sb adj./n.***
+>
+>    * I can imagine him really angry.
 
 Mitchell: Don’t think so.
 
@@ -74,39 +74,67 @@ Cameron: No, thank you. Ick.
 
 (Cut back to scene)
 
-Mitchell: You saw that, right? Everybody **fawning over** Lily, and then you walk on and suddenly it’s all “Oooh, SkyMall, I gotta buy a motorised tie rack.” Alright, you know, I’m- I’m gonna **give a speech**.
+Mitchell: You saw that, right? Everybody **fawning over** Lily, and then you walk on and suddenly it’s all “Oooh, SkyMall, I gotta buy a **motorized** tie rack.” Alright, you know, I’m- I’m gonna **give a speech**.
 
 > * ***fawn on/over sb*** -- try to please sb by praising them or paying them too much attention
 >
 >    * I refused to fawn over her or flatter her.
 
-> * ***give a speech***
+> * ***motorized*** -- adj. having an engine
+>
+>    * motorized vehicles/wheelchair
+
+> * ***give/make/deliver (+ on/about) a speech***
+>
+>    * Each child had to give a short speech to the rest of the class.
 
 Cameron: You are not giving a speech.
 
 Mitchell: Why?
 
-Cameron: You’re gonna be stuck with these people for the next five hours.
+Cameron: You’re gonna **be stuck with** these people for the next five hours.
 
-> * ***be stuck with***
-
+> * ***be stuck with sb*** -- have to spend time with sb or have a relationship with them even though you do not want to
+>
+>    * They are stuck with each other with no end in sight.
+>
+>    * I was stuck with him for the whole journey.
 
 Mitchell: You’re right, you’re right. Okay, I’m sorry.
 
-Lady: Honey, honey, look at those babies with those cream puffs.
+Lady: Honey, honey, look at those babies with those **cream puffs**.
 
-> * ***cream puff***
+> * ***cream puff*** -- 1. a small light cake that is empty inside and can be filled with whipped cream; 2. a person who is very easy to control, not strong or brave
 
+Mitchell: Okay, excuse me. (stands up) Excuse me, but this baby would’ve grown up in a **crowded orphanage** if it wasn’t for us cream puffs. And you know what? No, to all of you who judge-
 
-Mitchell: Okay, excuse me. (stands up) Excuse me, but this baby would’ve grown up in a crowded orphanage if it wasn’t for us cream puffs. And you know what? No, to all of you who judge-
+> * ***crowded*** -- adj. having a lot of people or too many people
+>
+>    * crowded streets/bar/room/restaurant
+
+> * ***orphanage*** -- n. a home for children whose parents are dead
+>
+> * ***orphan*** -- n. a child whose parents are both dead
 
 Cameron: Mitchell…
 
-Mitchell: -hear this: love knows no race, creed-
+Mitchell: -hear this: love knows no race, **creed**-
+
+> * ***creed*** -- n. a set of principles or religious beliefs
+>
+>    * people of all races, colours and creeds
 
 Cameron: Mitchell…
 
-Mitchell: -or gender. And shame on you, you small-minded, ignorant few-
+Mitchell: -or gender. And **shame on you**, you **small-minded**, **ignorant** few-
+
+> * ***shame on you*** -- used to say that sb should feel ashamed for sth they have said or done
+
+> * ***small-minded*** -- adj. thinking too much about your own life and problems and not about important things - used this to show disapproval
+
+> * ***ignorant*** -- adj. lacking knowledge or information about sth; not educated
+>
+>    * an ignorant person/question 
 
 Cameron: Mitchell!
 
@@ -114,6 +142,12 @@ Mitchell: What?!
 
 Cameron: (motions to cream puffs in Lily’s hands) She’s got the cream puffs.
 
-Mitchell: Oh.
+Mitchell: Oh. 
 
-Cameron: …We would like to pay for everyone’s headsets.
+Cameron: …We would like to **pay for everyone’s headsets**.
+
+> * ***pay for sth***
+>
+>    * I'll pay for the tickets.
+
+> * ***headset*** -- n. a set of headphones, often with a microphone attached
