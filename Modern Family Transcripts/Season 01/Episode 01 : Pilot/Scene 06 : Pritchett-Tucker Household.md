@@ -1,17 +1,32 @@
-Scene: Pritchett-Tucker household
+```
+Modern  Family Scripts  S01E01 Pilot    
 
+Scene 06 : Pritchett-Tucker household
 
-Mitchell: This doesn’t worry you? She barely slept on the plane and she’s still wide awake.
+written by 2020/07/05
+```
+
+Mitchell: **This doesn’t worry you?** She **barely** slept on the plane and she’s still **wide awake**.
+
+> * ***This doesn't worry you?***
+
+> * ***barely*** -- adv.
+
+> * ***wide awake***
 
 Cameron: Oh, stop worrying.
 
 Mitchell: But Cam, that… that orphanage, it was all women; maybe she just, she can’t fall asleep unless she feels a woman’s shape?
+
+> * ***shape***
 
 Cameron: Well, I guess that’s possible.
 
 Mitchell: So here. (hands Lily to Cameron)
 
 Cameron: What the hell is that supposed to mean?
+
+> * ***What the hell is that supposed to mean?***
 
 (Commentary)
 
@@ -39,7 +54,7 @@ Mitchell: Is that us… with wings?
 
 Cameron: We’re floating above her, always there to protect her.
 
-Mitchell: Okay, well, that’s reassuring, right, Lily? Yes, we tore you away from everything you know, but don’t worry – things are normal here. Your fathers are floating fairies. No, can you call Andre? Have him paint something a little less… gay? By the way, we need to stop having friends with names like Andre.
+Mitchell: Okay, well, that’s **reassuring**, right, Lily? Yes, we tore you away from everything you know, but don’t worry – things are normal here. Your fathers are floating fairies. No, can you call Andre? Have him paint something a little less… gay? By the way, we need to stop having friends with names like Andre.
 
 Cameron: Red-headed daddy is angry daddy.
 
