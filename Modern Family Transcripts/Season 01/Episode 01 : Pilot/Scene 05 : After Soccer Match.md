@@ -1,17 +1,38 @@
-Scene: After soccer match
+```
+Modern  Family Scripts  S01E01 Pilot    
 
+Scene 05 : After soccer match
 
-Manny: I’m quitting soccer. It is a game for children.
+written by 2020/07/04
+```
 
-Gloria: No, you’re not quitting. You would’ve stopped the goal if you weren’t staring at the little girl.
+Manny: I’m **quitting** soccer. It is a game for children.
+
+> * ***quit (doing) sth*** -- v. stop doing sth
+>
+> * quit smoking/drinking/laught at/complaining
+
+Gloria: No, you’re not quitting. You would’ve **stopped the goal** if you weren’t **staring at** the little girl.
+
+> * ***stop the goal*** -- stop sb else to score the goal
+
+> * ***stare at sb/sth***
+>
+>    * He lifted his head and stared at her.
 
 Manny: She’s not a girl. She is a woman. (both enter car)
 
-Jay: You know, Gloria, that little blow-up with that other mom– why do you have to do things like that?
+Jay: You know, Gloria, that little **blow-up** with that other mom– **why do you have to do things like that?**
+
+> * ***blow-up*** -- n. an occasion when sb suddenly becomes angry
+
+> * ***Why do you have to do things like that?***
 
 Gloria: If somebody says something about my family, I’m going to-
 
-Jay: I don’t… I’m just saying you could take it down here a little bit, that’s all.
+Jay: I don’t… I’m just saying you could **take it down here a little bit**, that’s all.
+
+> * ***take it down here a little bit***
 
 Gloria: Oh, yeah, ’cause that’s where you live – down here. But I live up here.
 
