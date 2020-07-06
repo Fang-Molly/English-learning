@@ -9,28 +9,84 @@ written by 2020/07/05
 Mitchell: **This doesn’t worry you?** She **barely** slept on the plane and she’s still **wide awake**.
 
 > * ***This doesn't worry you?***
+>
+> * worry sb (about sb/sth)
+>
+>    * What worries me is how I am going to get another job.
+>
+> * It worries sb (that) ...
+>
+>    * It worries me that he hasn't come home yet.
+>
+>    * It worries me to think what might happen.
 
-> * ***barely*** -- adv.
+> * ***barely*** -- adv. almost not
+>
+>    * He was so dizzy he could barely stand.
 
-> * ***wide awake***
+> * ***wide awake*** -- fully/completely awake
+> 
+>    * I was already wide awake before the alarm went off.
+>
+> * half/fully awake
 
 Cameron: Oh, stop worrying.
 
 Mitchell: But Cam, that… that orphanage, it was all women; maybe she just, she can’t fall asleep unless she feels a woman’s shape?
 
-> * ***shape***
-
 Cameron: Well, I guess that’s possible.
 
 Mitchell: So here. (hands Lily to Cameron)
 
-Cameron: What the hell is that supposed to mean?
+Cameron: **What the hell is that supposed to mean?**
 
-> * ***What the hell is that supposed to mean?***
+> * ***What/how/why/where etc the hell ... ?*** -- not polite used to show that you are very surprised or angry
+>
+>    * What the hell do you think you are doing?
+>
+>    * How the hell are we going to do that?
+
+> * ***be supposed to do/be sth*** -- to be expected or required to do/be sth according to a rule, a custom, an arrangement, etc. 
+>
+>    * What is that supposed to mean?
+>
+>    * You were supposed to be here an hour ago!
 
 (Commentary)
 
-Cameron: Yes, I’ve gained a… few extra pounds while we were expecting the baby, which has been very difficult. But, apparently, your body does a nesting, very maternal, primal thing where it retains nutrients… some sort of molecular physiology thing. But that’s science. You can’t… you can’t fight it, so…
+Cameron: Yes, I’ve **gained a… few extra pounds** while we were **expecting the baby**, which has been very difficult. But, **apparently**, your body does a nesting, very **maternal**, **primal** thing where it **retains** nutrients… some sort of molecular physiology thing. But that’s science. You can’t… you can’t fight it, so…
+
+> * ***gain*** -- v. increase weight, speed, height or value
+>
+>    * gain weight
+>
+>    * gain a few/some/25 etc. pounds
+
+> * ***expect sb*** -- be waiting for sb/sth to arrive, as this has been arranged
+>
+>    * expect a visit/letter/call from sb
+>
+>    * We were expecting him yesterday.
+
+> * ***apparently*** -- adv. according to what you have heard or read; according to the way sht appears
+>
+>    * Apparently they are getting divorced soon.
+
+> * ***maternal*** -- adj. having feelings that are typical of a caring mother towards a child
+>
+>    * maternal love/instinct
+>
+> * ***paternal*** -- adj. connected with being a father; typical of a kind father
+>
+>    * paternal love
+
+> * ***primal*** -- adj. connected with the earliest origins of life; very basic
+>
+>    * primal fear/urge/emotion
+
+> * ***retain*** -- v. store or keep sth inside sth else
+>
+>    * A lot of information can be retained in your computer.
 
 Mitchell: I’m not saying anything.
 
