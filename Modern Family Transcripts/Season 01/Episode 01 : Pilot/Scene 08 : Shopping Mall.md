@@ -1,4 +1,5 @@
 Scene: Shopping mall
+
 Manny: (holding note and flowers) Brenda Feldman.
 
 Gloria: What is that?
