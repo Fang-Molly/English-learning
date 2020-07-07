@@ -34,7 +34,8 @@ Jay: …Still thinking.
 
  
 
-Scene: Street
+**Scene 01: Street**
+
 (Claire, Phil and Luke are cycling)
 
 Woman: Hi Claire!
@@ -150,7 +151,8 @@ Cameron: Fine. You know what, I’ll just go put on a pair of khakhis, maybe a p
 
  
 
-Scene: Pritchett household
+**Scene 02: Pritchett household**
+
 Jay: Hey, I called that place in Napa and got us upgraded to a villa with a hot tub. So pack whatever you wear in a hot tub.
 
 Gloria: I usually wear nothing when I’m in a hot tub.
@@ -183,7 +185,8 @@ Gloria: You’re too funny. I’m gonna share that one with my next husband when
 
  
 
-Scene: Bicycle store
+**Scene 03: Bicycle store**
+
 Luke: Dad, this is the coolest bike ever.
 
 Phil: Awesome. So listen, buddy… Certain members of this family don’t think you can take care of this bad boy.
@@ -204,7 +207,8 @@ Luke: Thanks, dad. (rides off)
 
 
 
-Scene: Manny’s room
+**Scene 04: Manny’s room**
+
 Jay: So let’s do this.
 
 Manny: Okay, but I need to be done by three. That’s when my dad’s picking me up.
@@ -241,7 +245,8 @@ Jay: Manny thinks his dad is like Superman. The truth? He’s a total flake. In 
 
  
 
-Scene: Toddler play class
+**Scene 05: Toddler play class**
+
 Mitchell: I can’t believe I’m so nervous.
 
 Cameron: They’re gonna love us. Let’s just be ourselves.
@@ -276,7 +281,8 @@ Cameron: This is gonna be really difficult.
 
  
 
-Scene: Sidewalk
+**Scene 06: Sidewalk**
+
 (Phil comes across a bike left unattended)
 
 (Commentary)
@@ -289,7 +295,8 @@ Phil: (riding Luke’s bike) Excuse me, thank you. On your left. My left! Your r
 
  
 
-Scene: Toddler play class
+**Scene 07: Toddler play class**
+
 Teacher: Everyone, we have a new family joining us today.
 
 Mitchell: I’m Mitchell and I am a lawyer.
@@ -340,7 +347,8 @@ Cameron: …I feel dirty.
 
  
 
-Scene: Sidewalk
+**Scene 08: Sidewalk**
+
 Phil: Oh, hey!
 
 Desiree: Hey!
@@ -389,7 +397,8 @@ Desiree: Okay. Thank you!
 
  
 
-Scene: Palms Cycle (bicycle store)
+**Scene 09: Palms Cycle (bicycle store)**
+
 Phil: …So to teach him a lesson, I took his bike, and then crazy thing: I put it down for one minute and someone swiped it from me.
 
 Assistant: Maybe that was your dad teaching you a lesson.
@@ -410,7 +419,8 @@ Phil: Hahaha. Caught me again. Well played, m’ lord. I will take some insuranc
 
  
 
-Scene: Pritchett household
+**Scene 10: Pritchett household**
+
 Gloria: What’s going on in there?
 
 Manny: That’s not step four.
@@ -443,7 +453,8 @@ Gloria: It’s a very big comedy to me in Colombia. El Oso is always hit Salazar
 
  
 
-Scene: Dunphy household
+**Scene 11: Dunphy household**
+
 (Phil leaves bicycle at bottom of stairs)
 
 Phil: You blew it. You made me look bad. No, you made your mother and I look bad. We’re a team. (knocks on Luke’s door) Luke, you in there?
@@ -488,7 +499,8 @@ Phil: Uh oh.
 
  
 
-Scene: Manny’s room
+**Scene 12: Manny’s room**
+
 Jay: Ah, son of a b- You gave me the wrong screwdriver.
 
 Manny: Maybe you’re just using it wrong. My dad’s great with tools. He can get the wheels off a car in less than a minute.
@@ -521,7 +533,8 @@ Jay: You think I like this arrangement? I got a two-seater parked in the drivewa
 
  
 
-Scene: Dunphy driveway
+**Scene 13: Dunphy driveway**
+
 Claire: I mean, I don’t understand. Why are you trying to sneak around and hide things from me? I actually think it’s pretty funny.
 
 Phil: …You do?
@@ -572,7 +585,8 @@ Phil: Classic me?
 
  
 
-Scene: Toddlers play class
+**Scene 14: Toddlers play class**
+
 Mitchell: (to Lily) Come on, honey, grab the block. You see, like he did. You gotta do that.
 
 Cameron: Seen any m-movies lately?
@@ -637,7 +651,8 @@ Cameron: (runs off; does horsey move in the circle; runs out) Oh, I think I hurt
 
  
 
-Scene: Pritchett household
+**Scene 15: Pritchett household**
+
 (Manny is sitting alone in the driveway. Inside, Jay’s ready with his luggage; pours himself whisky. Before drinking it, the phone rings)
 
 Jay: Hello? Hey, Javier. Manny’s waiting for you outside. What? Why not? Hold that thought. (drinks whiskey)
@@ -698,7 +713,8 @@ Jay: …ninety percent of being a dad… is just showing up.
 
  
 
-Scene: Sidewalk
+**Scene 16: Sidewalk**
+
 (Phil returns random kid’s bike where he found it; kid sees him)
 
 Kid: Hey! That’s my bike!
