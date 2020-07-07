@@ -1,23 +1,64 @@
-Scene: Dunphy household
+```
+Modern  Family Scripts  S01E01 Pilot    
+
+Scene 09 : Dunphy household
+
+written by 2020/07/08
+```
+
 (Inside)
 
 Hayley: Alex, get out! Mom!
 
-Claire: Alex, leave your sister alone.
+Claire: Alex, **leave your sister alone**.
+
+> * ***leave/let sb alone*** -- stop annoying sb or trying to get their attention
+>
+>    * Leave the boy alone, he can make up his own mind.
 
 Alex: I was just getting my book, gosh.
 
-Claire: I know, sweety, but you need to respect their privacy. What are they doing up there?
+Claire: I know, sweety, but you need to **respect their privacy**. What are they doing up there?
+
+> * ***respect one's privacy***
+>
+>    * I would like you to respect my privacy.
 
 Alex: Nothing. Lying on the bed watching a movie.
 
-Claire: …Okay. Okay. Um, I’m making a cake for tonight. Do you wanna help me with the frosting?
+Claire: …Okay. Okay. Um, I’m making a cake for tonight. **Do you wanna help me with the frosting**?
 
-Alex: Sure. So, you know, if Hayley got pregnant, would you ever pretend she was mono for a few months, and then, like, tell everyone the baby is yours?
+> * ***help sb with sth***
+>
+>    * Jo will help us with some of the organization.
+
+> * ***frosting*** -- n. a sweet substance put on cakes and made from powdery sugar and butter
+
+Alex: Sure. So, you know, if Hayley **got pregnant**, would you ever **pretend** she has **mono** for a few months, and then, like, tell everyone the baby is yours?
+
+> * ***get/become pregnant***
+>
+>    * She's been trying to get pregnant for a year now.
+
+> * ***pretend (that) ...*** -- v. 
+>
+>    * We pretendde nothing had happened.
+
+> * ***mono*** -- n. mononucleosis, a disease which causes swollen glands, fever, and a sore throat.
 
 Claire: …What?
 
-Alex: The senior at school was out sick for, like, four months, but… then a week later, she was breastfeeding at the corner of a carwash.
+Alex: The senior at school **was out sick** for, like, four months, but… then a week later, she was **breastfeeding** at the corner of a **carwash**.
+
+> * ***be out/off sick*** -- be away from work or school because you are ill
+>
+>    * I was off sick for four days with the flu.
+
+> * ***breastfeed*** -- v. feed a baby with milk from your breasts rather than bottle-feeding it
+>
+>    * Not all women have the choice whether or not to breast-feed their babies.
+
+> * ***carwash*** -- n. a place where there is special equipment for washing cars
 
 (Outside)
 
