@@ -78,11 +78,19 @@ Claire: Hayley is not getting pregnant.
 
 Alex: Just saying if.
 
-Claire: I know. And I know you like to make trouble for your sister, but it’s not gonna work this time. You know why? ‘Cause your sister is a good girl. I know; I was just like her when I was… (walks off)
+Claire: I know. And I know you like to **make trouble for your sister**, but it’s not gonna work this time. You know why? ‘Cause your sister is a good girl. I know; I was just like her when I was… (walks off)
+
+> * ***make trouble for sb***
+>
+>   * I'm not gonna make trouble for you or anybody else.
 
 (Outside)
 
-Phil: I want you to know: I’m not enjoying this, but this is an important lesson that you’re learning, so soak it, keep it. (aims BB gun at Luke)
+Phil: I want you to know: **I’m not enjoying this, but this is an important lesson that you’re learning, so soak it, keep it.** (aims BB gun at Luke)
+
+> * ***This is an important lesson ...***
+>
+>    * This is an important lesson for us:we can solve a problem(problem), bylearning to forget.
 
 Luke: You’re too close. It’s gonna hurt.
 
