@@ -208,17 +208,35 @@ Mitchell: (to Lily) Yes! Who’s excited, huh? Cam, come on, hurry up – we’r
 
 Cameron: It’s a toddler play class, not a flight to Cabo.
 
-Mitchell: We’re gonna be judged enough as the only gay parents there; I don’t wanna be the late ones too. Wow, paisley and pink. Was there something wrong with the fishnet tank top.
+Mitchell: We’re gonna be judged enough as the only gay parents there; I don’t wanna be the late ones too. Wow, **paisley** and pink. Was there something wrong with the **fishnet** tank top.
 
-Cameron: Obviously not; I’m wearing it underneath. Kidding. Just chill, please.
+> * ***paisley*** -- adj. a pattern consisting of curved shapes used on cloth
 
-Mitchell: I’m sorry; I just wanna make a good first impression.
+> * ***fishnet*** - n. a type of cloth made of threads that produce a pattern of small holes like a net 
 
-Cameron: You mean you wanna fit in and not terrify the villagers?
+Cameron: Obviously not; I’m wearing it underneath. Kidding. Just **chill**, please.
 
-Mitchell: No- hey, come on. Today is about Lily, alright? Her future best friend might be in that class and I don’t wanna… rub anyone the wrong way. Can you please just… change your shirt.
+> * ***chill*** -- v. relax and stop being angry or nervous, or to spend time relaxing
 
-Cameron: Fine. You know what, I’ll just go put on a pair of khakhis, maybe a polo shirt and everybody’ll think we’re a couple of straight golfing buddies who just decided to have a kid together.
+Mitchell: I’m sorry; I just wanna **make a good first impression**.
+
+> * ***make a good first impression***
+
+Cameron: You mean you wanna **fit in** and not **terrify** the villagers?
+
+> * ***fit in*** -- live, work, etc. in an easy and natural way with sb/sth 
+
+> * ***terrify*** -- v. make sb extremely afraid
+>
+>    * Flying terrifies her.
+
+Mitchell: No- hey, come on. Today is about Lily, alright? Her future best friend might be in that class and I don’t wanna… **rub anyone the wrong way**. Can you please just… change your shirt.
+
+> * ***rub sb the wrong way*** -- make sb annoyed or angry, often without intending to, by doing or saying sth that offends them
+
+Cameron: Fine. You know what, I’ll just go put on a pair of **khakis**, maybe a polo shirt and everybody’ll think we’re a couple of straight golfing buddies who just decided to have a kid together.
+
+> * ***khakis*** -- pl. trousers/pants made from khaki cloth
 
 -------------
 
