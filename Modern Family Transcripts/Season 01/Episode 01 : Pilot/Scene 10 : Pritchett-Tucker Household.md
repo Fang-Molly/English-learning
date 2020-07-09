@@ -1,4 +1,10 @@
-Scene: Pritchett-Tucker household
+```
+Modern  Family Scripts  S01E01 Pilot    
+
+Scene 10 : Pritchett-Tucker household
+
+written by 2020/07/09
+```
 
 (Commentary)
 
