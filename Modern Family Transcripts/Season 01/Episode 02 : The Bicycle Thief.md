@@ -1,8 +1,22 @@
 (Commentary)
 
-Jay: What’s the key to being a great dad? Uh, that’s a tough one.
+Jay: **What’s the key to being a great dad?** Uh, that’s a **tough** one.
 
-Cameron: Giving them the freedom to be whatever they wanna be.
+> * ***the key to (doing) sth***
+>
+>    * The key to success is preparation.
+>
+>    * The driver of the car probably holds the key to solving the crime.
+
+> * ***tough*** -- adj. difficult to do or deal with
+>
+>    * a tough question/race/life/year/decision/childhood/
+
+Cameron: **Giving them the freedom to be whatever they wanna be.**
+
+> * ***give sb the freedom to do sth***
+>
+>    * The children at the school are given complete freedom to study whatever subjects they want.
 
 Mitchell: Right, exactly, s-
 
@@ -14,7 +28,9 @@ Cameron: -of a company or of a country.
 
 Mitchell: …Patience.
 
-Phil: Well, be their buddy.
+Phil: Well, be their **buddy**.
+
+> * ***buddy*** -- n. a friend
 
 Claire: …That’s your answer?
 
@@ -32,9 +48,9 @@ Claire: Oh god.
 
 Jay: …Still thinking.
 
- 
+----------------------
 
-**Scene 01: Street**
+# **Scene 01 : Street**
 
 (Claire, Phil and Luke are cycling)
 
@@ -58,21 +74,63 @@ Phil: Fun. Where?
 
 Desiree: Three-fourteen.
 
-Phil: Oh, the two bedroom cottage with the indoor outdoor family room.
+Phil: Oh, the two bedroom **cottage** with the indoor-outdoor family room.
+
+> * ***cottage*** -- n. a small house, especially in the country
 
 Desiree: Very good! How did you-
 
-Phil: I bet you’re loving that steam shower.
+Phil: **I bet you’re loving that steam shower.**
+
+> * ***sb bet (sb) (that) ...***
+>
+>    * I bet (that) we're too late.
+>
+>    * I'll bet you (that) he knows all about it.
+
+> * ***steam shower***
 
 Claire: Phil, that’s creepy.
 
-Phil: Oh, sorry. I’m a real estate mogul. What? I’m- I am a real estate agent. Um, we caravaned that house. Great, uh, deck.
+> * ***creepy*** -- adj. making you feel nervous and slightly frightened
+> 
+>    * There's something creepy about the way he looks at me.
 
-Desiree: Thanks. I’m just there ’til my divorce is final.
+Phil: Oh, sorry. I’m a **real estate mogul**. What? I’m- I am a **real estate agent**. Um, we **caravaned** that house. Great, uh, **deck**.
 
-Phil: Now who is coconuts enough to divorce you?
+> * ***real estate*** --  the business of selling houses or land
+> 
+> * ***mogul*** -- n. a very rich, important and powerful person
+> 
+>    * a real estate/movie/media/gambling etc mogul
+>
+> * ***agent*** -- n. a person or company that represents another person or company, especially in business
 
-Claire: Oh, we gotta go. But we’ll see you around.
+> * ***caravan*** -- v. 
+
+> * ***deck*** -- v. decorate
+
+Desiree: Thanks. **I’m just there till my divorce is final**.
+
+> * ***divorce*** -- n. the legal ending of a marriage
+>
+>    * They have agreed to get a divorce.
+
+> * ***final*** -- adj. cannot be argued with or changed
+>
+>    * The judge's decision is final.
+
+Phil: Now who is **coconuts** enough to **divorce you**?
+
+> * ***divorce*** -- v. end your marriage to sb legally
+>
+> * divorce sb
+>
+>    * She's divorcing her husband.
+
+Claire: Oh, we gotta go. But we’ll **see you around**.
+
+> * ***see you around*** -- used to say goodbye to someone when you have not made a definite arrangement to meet again
 
 Phil: Well, we’d love to have you over sometime.
 
@@ -106,9 +164,19 @@ Claire: Well, we’ll add more black tape.
 
 Phil: My son has been riding his sister’s old bike.
 
-Claire: Until he’s responsible enough to take care of his own bike. Look, he spilled a soda on my computer, he ruined our digital camera taking pictures of himself underwater-
+Claire: Until he’s **responsible** enough to take care of his own bike. Look, he spilled a soda on my computer, he ruined our digital camera taking pictures of himself underwater-
 
-Phil: It’s a girl’s bike. I’m all for teaching him a lesson, but I worry about the ridicule he might get from some… loudmouth bully.
+> * ***be responsible do sth***
+>
+>    * We are responsible to replace the defective ones.
+
+Phil: It’s a girl’s bike. I’m all for teaching him a lesson, but I worry about the **ridicule** he might get from some… **loudmouth bully**.
+
+> * ***ridicule*** -- n. unkind comments that make fun of sb/sth or make them look silly 
+
+> * ***loudmouth*** -- adj. someone who talks too much and says offensive or stupid things
+
+> * ***bully*** -- n. a person who uses their strength or power to frighten or hurt weaker people
 
 (Cut back to scene)
 
@@ -132,7 +200,10 @@ Phil: …
 
 Phil: Sometimes a man’s gotta put his foot down and do what a man’s gotta do, and if the old lady don’t like it – honey? (silence) – that’s too damn bad.
 
-Scene: Pritchett-Tucker household
+----------------
+
+# Scene 02 : Pritchett-Tucke  household
+
 Mitchell: (to Lily) Yes! Who’s excited, huh? Cam, come on, hurry up – we’re gonna be late.
 
 Cameron: It’s a toddler play class, not a flight to Cabo.
@@ -149,9 +220,9 @@ Mitchell: No- hey, come on. Today is about Lily, alright? Her future best friend
 
 Cameron: Fine. You know what, I’ll just go put on a pair of khakhis, maybe a polo shirt and everybody’ll think we’re a couple of straight golfing buddies who just decided to have a kid together.
 
- 
+-------------
 
-**Scene 02: Pritchett household**
+# **Scene 03 : Pritchett household**
 
 Jay: Hey, I called that place in Napa and got us upgraded to a villa with a hot tub. So pack whatever you wear in a hot tub.
 
@@ -183,9 +254,9 @@ Jay: I know. That’s why I hire people from your culture.
 
 Gloria: You’re too funny. I’m gonna share that one with my next husband when we’re spending all your money.
 
- 
+---------------------------
 
-**Scene 03: Bicycle store**
+# **Scene 04 : Bicycle store**
 
 Luke: Dad, this is the coolest bike ever.
 
@@ -205,9 +276,9 @@ Phil: Have, like, three bike-loads of fun.
 
 Luke: Thanks, dad. (rides off)
 
+--------------------------
 
-
-**Scene 04: Manny’s room**
+# **Scene 05: Manny’s room**
 
 Jay: So let’s do this.
 
@@ -243,9 +314,9 @@ Manny: One time, my dad was struck by lightning. That’s why he can drink as mu
 
 Jay: Manny thinks his dad is like Superman. The truth? He’s a total flake. In fact, the only way he’s like Superman is that they both landed in this country illegally.
 
- 
+----------------------- 
 
-**Scene 05: Toddler play class**
+# **Scene 06 : Toddler play class**
 
 Mitchell: I can’t believe I’m so nervous.
 
@@ -279,9 +350,9 @@ Teacher: Mhh hmm. (walks off)
 
 Cameron: This is gonna be really difficult.
 
- 
+---------------------- 
 
-**Scene 06: Sidewalk**
+# **Scene 07: Sidewalk**
 
 (Phil comes across a bike left unattended)
 
@@ -293,9 +364,9 @@ Phil: Ten minutes after making a promise to me, he leaves his bike unlocked. All
 
 Phil: (riding Luke’s bike) Excuse me, thank you. On your left. My left! Your right!
 
- 
+--------------------------------- 
 
-**Scene 07: Toddler play class**
+# **Scene 08 : Toddler play class**
 
 Teacher: Everyone, we have a new family joining us today.
 
@@ -345,9 +416,9 @@ Mitchell: That was very good.
 
 Cameron: …I feel dirty.
 
- 
+--------------------- 
 
-**Scene 08: Sidewalk**
+# **Scene 09 : Sidewalk**
 
 Phil: Oh, hey!
 
@@ -395,9 +466,9 @@ Phil: (sprints off) It’s alright, thank you.
 
 Desiree: Okay. Thank you!
 
- 
+------------------ 
 
-**Scene 09: Palms Cycle (bicycle store)**
+# **Scene 10 : Palms Cycle (bicycle store)**
 
 Phil: …So to teach him a lesson, I took his bike, and then crazy thing: I put it down for one minute and someone swiped it from me.
 
@@ -417,9 +488,9 @@ Assistant: So you wanna go for the insurance this time or is it still for sucker
 
 Phil: Hahaha. Caught me again. Well played, m’ lord. I will take some insurance, thank you.
 
- 
+-------------------
 
-**Scene 10: Pritchett household**
+# **Scene 11 : Pritchett household**
 
 Gloria: What’s going on in there?
 
@@ -451,9 +522,9 @@ Gloria: Look at you two with your private jokes already. You’re a regular Sala
 
 Gloria: It’s a very big comedy to me in Colombia. El Oso is always hit Salazar in the head with the lada and things, and sometimes they wore dresses. They make you laugh, but they also make you think.
 
- 
+----------------------- 
 
-**Scene 11: Dunphy household**
+**Scene 12 : Dunphy household**
 
 (Phil leaves bicycle at bottom of stairs)
 
@@ -497,9 +568,9 @@ Phil: The good news is Luke has his bike. More good news: I taught some random k
 
 Phil: Uh oh.
 
- 
+----------------------- 
 
-**Scene 12: Manny’s room**
+# **Scene 13 : Manny’s room**
 
 Jay: Ah, son of a b- You gave me the wrong screwdriver.
 
@@ -531,9 +602,9 @@ Manny: You know what? I wish you’d never married my mom. I hate living here.
 
 Jay: You think I like this arrangement? I got a two-seater parked in the driveway!
 
- 
+------------------------- 
 
-**Scene 13: Dunphy driveway**
+# **Scene 14 : Dunphy driveway**
 
 Claire: I mean, I don’t understand. Why are you trying to sneak around and hide things from me? I actually think it’s pretty funny.
 
@@ -583,9 +654,9 @@ Desiree: No, at my house. One of my neighbours saw it and put it in my garage wh
 
 Phil: Classic me?
 
- 
+---------------------- 
 
-**Scene 14: Toddlers play class**
+# **Scene 15 : Toddlers play class**
 
 Mitchell: (to Lily) Come on, honey, grab the block. You see, like he did. You gotta do that.
 
@@ -649,9 +720,9 @@ Mitchell: Make that horsey move. Go ahead.
 
 Cameron: (runs off; does horsey move in the circle; runs out) Oh, I think I hurt myself.
 
- 
+------------------------------ 
 
-**Scene 15: Pritchett household**
+# **Scene 16 : Pritchett household**
 
 (Manny is sitting alone in the driveway. Inside, Jay’s ready with his luggage; pours himself whisky. Before drinking it, the phone rings)
 
@@ -711,9 +782,9 @@ Jay: …because when all is said and done…
 
 Jay: …ninety percent of being a dad… is just showing up.
 
- 
+--------------------- 
 
-**Scene 16: Sidewalk**
+# **Scene 17: Sidewalk**
 
 (Phil returns random kid’s bike where he found it; kid sees him)
 
