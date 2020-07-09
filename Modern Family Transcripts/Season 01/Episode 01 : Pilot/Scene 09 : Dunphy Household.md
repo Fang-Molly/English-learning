@@ -80,7 +80,7 @@ Alex: Just saying if.
 
 Claire: I know. And I know you like to **make trouble for your sister**, but it’s not gonna work this time. You know why? ‘Cause your sister is a good girl. I know; I was just like her when I was… (walks off)
 
-> * ***make trouble for sb***
+> * ***make/cause trouble for sb/sth***
 >
 >   * I'm not gonna make trouble for you or anybody else.
 
@@ -88,13 +88,29 @@ Claire: I know. And I know you like to **make trouble for your sister**, but it�
 
 Phil: I want you to know: **I’m not enjoying this, but this is an important lesson that you’re learning, so soak it, keep it.** (aims BB gun at Luke)
 
+> * ***teach sb a lesson*** -- punish sb
+>
+>    * The accident taught me a lesson I'll never forget.
+>
+> * ***learn a lesson***
+>
+>    * The government has failed to learn the lessons of history .
+>
+> * ***let that be a lesson to you***
+>
+>    * Let that be a lesson to you not to play with matches!
+>
 > * ***This is an important lesson ...***
 >
 >    * This is an important lesson for us:we can solve a problem(problem), bylearning to forget.
 
 Luke: You’re too close. It’s gonna hurt.
 
-Phil: It’s supposed to hurt.
+Phil: **It’s supposed to hurt.**
+
+> * ***be supposed to do/be sth***
+>
+>    * It's supposed to go the other direction.
 
 Luke: And why are you smiling?
 
@@ -106,7 +122,15 @@ Claire: (climbs stairs and stands outside Hayley’s room)
 
 (Outside)
 
-Phil: Oh, forget it. I can’t do this. The point is you’re scared. I think you’ve learned your lesson- (BB gun goes off) Wow.
+Phil: Oh, **forget it**. I can’t do this. **The point is you’re scared.** I think you’ve learned your lesson- (BB gun goes off) Wow.
+
+> * ***forget it*** -- used to tell someone that something is not important and they do not need to worry about it
+>
+>    * ‘I still owe you for lunch yesterday.’ ‘Forget it.’
+
+> * ***the point is (that) ...***
+>
+>    * The point is you shouldn't have to wait so long to see a doctor.
 
 Luke: Ow!
 
@@ -116,19 +140,59 @@ Claire: (enters Hayley’s room)
 
 Hayley: Mom? What are you doing?
 
-Claire: Oh, hey. I was just, um, dropping off some laundry. Is this a bad time?
+Claire: Oh, hey. I was just, um, **dropping off some laundry**. **Is this a bad time?**
+
+> * ***drop off*** -- take sth to a place and leave them there on your way to another place
+>
+>    * I'll drop you off on my way home.
+
+> * ***laundry*** - n. clothes, sheets etc that need to be washed or have just been washed
+>
+>    * do the laundry = wash clothes
+>
+>    * clean/dirty laundry
+
+> * ***a bad time*** -- not a good time
+>
+>    * I really would like to come, but I'm afraid this is a bad time.
 
 Hayley: Yeah.
 
 Claire: Oh. Okay. (leaves)
 
-Hayley: Can you shut the door, please?
+Hayley: Can you **shut the door**, please?
 
-Claire: Actually, we’re just gonna go ahead and leave that open.
+> * ***shut*** -- v. close
+>
+>    * shut the door/window/suitcase/eyes/book
+
+Claire: Actually, we’re just gonna **go ahead and leave that open**.
+
+> * ***go ahead and do sth*** 
+>
+>    * Go ahead and eat before everything gets cold.
+>
+>    * I went ahead and arranged the trip anyway.
+
+> * ***leave sb/sth adj.*** -- make sb/sth to remain in a particular condition, place, etc.
+>
+>    * leave the door open
 
 Hayley: Why?
 
-Claire: Because I have, uh, seen this little show before, lying on the bed with a tall senior. One moment you’re just friends watching Falcon Crest, and the next you’re lying under the air hockey table with your bra in your pocket.
+Claire: Because I have, uh, seen this little show before, lying on the bed with a tall senior. **One moment you’re just friends watching Falcon Crest, and the next you’re lying under the air hockey table with your bra in your pocket.**
+
+> * ***one moment ... the next ... / from one moment to the next*** -- used to say that a situation changes very suddenly, often in a way which you do not expect or cannot explain
+>
+>    * One moment she's kissing me, the next she doesn't want to see me again.
+>
+>    * You never know what's going to happen from one moment to the next.
+
+> * ***air hockey table***
+
+> * ***with*** -- used to show the way in which sb does sth
+>
+>    * Don't stand with your hands in your pockets.
 
 Dylan: Woah…
 
@@ -144,7 +208,11 @@ Luke: I thought you were my friend!
 
 Phil: I am your friend!
 
-Hayley: Dad! Dad! Dad, you have got to talk to mom. She’s, like, completely freaking out and embarrassing me!
+Hayley: Dad! Dad! Dad, you have got to talk to mom. She’s, like, completely **freaking out** and embarrassing me!
+
+> * ***freak out*** -- become very anxious, upset or afraid, or make someone very anxious, upset or afraid
+>
+>    * People just freaked out when they heard the news.
 
 Phil: Well, honey, your mom isn’t always as cool about things as I- (BB gun goes off)
 
