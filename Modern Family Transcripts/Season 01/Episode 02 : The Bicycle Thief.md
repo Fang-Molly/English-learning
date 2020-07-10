@@ -302,7 +302,9 @@ Phil: Awesome. So listen, buddy… Certain members of this family don’t think 
 
 Luke: You mean mom?
 
-Phil: Your words, not mine. Look, uh… your mom and I are a team, and she- we feel like this is a chance for you to show some responsibility. Don’t make us look like jerks here.
+Phil: Your words, not mine. Look, uh… your mom and I are a team, and she- we feel like this is a chance for you to show some responsibility. Don’t make us look like **jerks** here.
+
+> * ***jerk*** -- n. someone who is a little stupid and annoying, and who does not care if they upset or hurt other people
 
 Luke: I won’t.
 
