@@ -242,11 +242,25 @@ Cameron: Fine. You know what, I’ll just go put on a pair of **khakis**, maybe 
 
 # **Scene 03 : Pritchett household**
 
-Jay: Hey, I called that place in Napa and got us upgraded to a villa with a hot tub. So pack whatever you wear in a hot tub.
+Jay: Hey, I called that place in Napa and **got us upgraded to a villa with a hot tub**. So **pack** whatever you wear in a hot tub.
+
+> * ***upgrade sb to sth*** -- give sb a better seat on a plane, room in a hotel, etc. than the one that they have paid for.
+
+> * ***villa*** -- n. a house where people stay on holiday/vacation
+
+> * ***tub*** -- bathtub
+
+> * ***pack sth*** -- v. put clothes, etc. into a bag in preparation for a trip away from home.
+>
+>    * I haven't packed my suitcase yet.
 
 Gloria: I usually wear nothing when I’m in a hot tub.
 
-Jay: And my college roommate’s wife just had to get a new hip. Sucker.
+Jay: And my college roommate’s wife just had to get a new **hip**. **Sucker**.
+
+> * ***hip*** -- n. one of the two parts on each side of your body between the top of your leg and your waist
+
+> * ***sucker*** -- n. someone who is easily tricked or persuaded to do something
 
 (Commentary)
 
@@ -254,7 +268,9 @@ Gloria: Manny’s father is taking him for a couple of days to Disneyland, so we
 
 Jay: We’re gonna drink some wine, eat some good food… You know, we would do something like this more often if it wasn’t for, you know, Manny.
 
-Gloria: It’s good. He keeps us grounded.
+Gloria: It’s good. He keeps us **grounded**.
+
+> * ***grounded*** -- adj. having a sensible and realistic attitude to life 
 
 Jay: Yeah… Like fog at an airport.
 
@@ -266,7 +282,11 @@ Gloria: No. What about the fan in Manny’s room?
 
 Jay: Oh, yeah… Call a guy.
 
-Gloria: Nooo. You’re supposed to do it with him. It’s important that we teach him how to do things for himself. In my culture, men take great pride in doing physical labour.
+Gloria: Nooo. You’re supposed to do it with him. It’s important that we teach him how to do things for himself. In my culture, men **take great pride in doing physical labour**.
+
+> * ***take (a) pride in (doing) sth***: feel proud of sth
+>
+>    * He takes great pride in his children's achievements.
 
 Jay: I know. That’s why I hire people from your culture.
 
