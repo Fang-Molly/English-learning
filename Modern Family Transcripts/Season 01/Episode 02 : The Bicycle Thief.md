@@ -324,11 +324,17 @@ Jay: So let’s do this.
 
 Manny: Okay, but I need to be done by three. That’s when my dad’s picking me up.
 
-Jay: Hey, if we’re not done by three, I’m gonna tie a noose on this thing.
+Jay: Hey, if we’re not done by three, I’m gonna tie a **noose** on this thing.
+
+> * ***noose*** -- n. a circle that is tied in one end of a rope with a knot that allows the circle to get smaller as the other end of the rope is pulled
 
 (Commentary)
 
-Gloria: In Colombia, there’s a saying: if you have two stubborn burros that don’t like each other, you tie them to the same cart. The ceiling fan is the cart.
+Gloria: In Colombia, there’s a saying: if you have two **stubborn burros** that don’t like each other, you tie them to the same cart. The ceiling fan is the cart.
+
+> * ***stubborn*** -- adj.determined not to change your opinion or attitude
+
+> * ***burro*** -- n. a small donkey (pl. burros)
 
 (Cut back to scene)
 
@@ -340,19 +346,57 @@ Manny: He killed a bear once.
 
 Jay: Really? Was the bear sitting in the passenger seat? Read me the instructions.
 
-Manny: Safety tips. Warning: to reduce the risk of electrical shock-
+Manny: Safety tips. Warning: to **reduce the risk of electrical shock**-
+
+> * ***reduce/minimize/increase the risk of sth***
+>
+>    * Healthy eating can help reduce the risk of heart disease.
+
+> * ***electrical shock*** -- electric shock, also shock
 
 Jay: We can skip that.
 
-Manny: Uh, failure to heed these warnings can lead to serious injury-
+Manny: Uh, **failure to heed these warnings can lead to serious injury**-
 
-Jay: Yeah, you worry too much. Nobody’s gonna get shocked.
+> * ***failure to do sth*** -- a lack of success in achieving or doing sth
+>
+>    * Failure to produce proof of identity could result in prosecution.
 
-Manny: One time, my dad was struck by lightning. That’s why he can drink as much as he wants.
+> * ***heed*** -- v. pay attention to sb's advice or warning
+>
+>    * heed warnings/words/threats/call
+
+> * ***lead to sth*** -- begin a process that causes sth to happen
+>
+>    * There is no doubt that stress can lead to physical illness.
+
+> * ***injury*** -- n. harm done to a person's or an animal's body, for example in an accident
+>
+>    * serious/minor injury
+
+Jay: Yeah, **you worry too much.** Nobody’s gonna get shocked.
+
+> * ***worry too much***
+>
+>    * So try not to worry too much about perfection.
+
+Manny: One time, my dad **was struck by lightning**. That’s why he can drink as much as he wants.
+
+> * ***be struck by lightning***
 
 (Commentary)
 
-Jay: Manny thinks his dad is like Superman. The truth? He’s a total flake. In fact, the only way he’s like Superman is that they both landed in this country illegally.
+Jay: Manny thinks his dad is like Superman. The truth? He’s a total **flake**. In fact, the only way he’s like Superman is that they both landed in this country **illegally**.
+
+> * ***flake*** -- n. a crazy person
+
+> * ***the only way (that) ... is (that)...***
+>
+>    * The only way he wins is if he follows my plan.
+
+> * ***illegally*** -- adv. 
+>
+> * ***illegal*** -- adj. not allowed by the law
 
 ----------------------- 
 
@@ -362,7 +406,11 @@ Mitchell: I can’t believe I’m so nervous.
 
 Cameron: They’re gonna love us. Let’s just be ourselves.
 
-Mitchell: Or a slightly toned-down version of ourselves. I ju- I just don’t want this to become an episode of The Cam Show.
+Mitchell: Or a **slightly toned-down version** of ourselves. I ju- I just don’t want this to become an episode of The Cam Show.
+
+> * ***tone down*** -- make a speech, an opinion, etc. less extreme or offensive
+>
+>    * In the public glare, its leaders tone down their language.
 
 Cameron: Oh my gosh, people love The Cam Show.
 
