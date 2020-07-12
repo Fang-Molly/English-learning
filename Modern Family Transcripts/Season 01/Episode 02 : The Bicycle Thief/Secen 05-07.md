@@ -126,7 +126,11 @@ Cameron: This is gonna be really difficult.
 
 (Commentary)
 
-Phil: Ten minutes after making a promise to me, he leaves his bike unlocked. All I can hear is Claire’s voice in my head: “He’s not responsible. You never should’ve given him a bike.” I know. I do a pretty good Claire. So I decided to teach him a lesson and let him think his bike was stolen. And I know that sounds kinda rough, but sometimes it’s a dad’s job to be the tough guy.
+Phil: Ten minutes after **making a promise** to me, he leaves his bike unlocked. All I can hear is Claire’s voice in my head: “He’s not responsible. You never should’ve given him a bike.” I know. I do a pretty good Claire. So I decided to teach him a lesson and let him think his bike was stolen. And I know that sounds kinda rough, but sometimes it’s a dad’s job to be the tough guy.
+
+> * ***make a promise***
+>
+>    * Making promises is risky for a company, but it usually does result in improved customer relations.
 
 (Cut back to scene)
 
