@@ -4,11 +4,17 @@ Teacher: Everyone, we have a new family joining us today.
 
 Mitchell: I’m Mitchell and I am a lawyer.
 
-Cameron: I- I’m Cameron and I’m currently not working… which gives me more time to grill and shoot baskets and-
+Cameron: I- I’m Cameron and I’m currently not working… which gives me more time to grill and **shoot baskets** and-
+
+> * ***shoot baskets***
 
 Mitchell: And this is Lily.
 
-Teacher: Okay, we’re gonna start with the Hello Dance, and then we’re gonna move onto blocks and finger painting, and then we’re gonna do our Family Dance. Alright, who wants to start us off? Dance us in, PJ! (woman gets up and dances with toddler)
+Teacher: Okay, we’re gonna start with the Hello Dance, and then we’re gonna move onto blocks and finger painting, and then we’re gonna do our Family Dance. Alright, who wants to **start us off**? Dance us in, PJ! (woman gets up and dances with toddler)
+
+> * ***start sb off (on sth)***
+>
+>    * What started her off on that crazy idea?
 
 Mother: She’s adorable.
 
@@ -18,7 +24,11 @@ Mother: Seven months?
 
 Mitchell: Uh, eight.
 
-Mother: Oh. Is she grabbing or scooting yet?
+Mother: Oh. Is she grabbing or **scooting** yet? 
+
+> * ***scoot*** -- v. go or leave swh in a hurry
+>
+>    * I'd better scoot or I'll be late.
 
 Mitchell: …Y-yes, absolutely! I mean, she’s not grabbing; she is- she is scootin’.
 
@@ -28,7 +38,9 @@ Mother: (to her toddler) Are you ready? Okay, here we go! (gets up, dances with 
 
 Mitchell: Cam. Lily is not grabbing or scooting yet.
 
-Cameron: Well, she’s not doing it yet, but she will eventually.
+Cameron: Well, she’s not doing it yet, but she will **eventually**.
+
+> * ***eventually*** -- adv. at the end of a period of time or a series of events
 
 Mitchell: No, but all these other kids, theyre… they’re grabbing. I- I just… (picks up block) Here, c- Lily, look at the- look at the block. Huh? Grab the block, Lily. Grab the ‘H’.
 
@@ -38,9 +50,15 @@ Cameron: Okay, I got this.
 
 Mitchell: Cam…
 
-Cameron: Yes I know. Damp down my natural gifts and dance like a straight guy.
+Cameron: Yes I know. **Damp down** my natural gifts and dance like a straight guy.
 
-Mitchell: No slapping your own butt.
+> * ***damp down*** -- make an emotion or a feeling less strong
+
+Mitchell: No **slapping** your own **butt**.
+
+> * ***slap*** -- v. hit sb/sth with the flat part of your hand 
+
+> * ***butt*** -- n. the part of the body that you sit on
 
 Cameron: But that’s how I make my horsey go. (gets up; dances slowly with Lily) Thank you.
 
@@ -72,7 +90,15 @@ Phil: … Yeah! Yeah, sure. Of course. You know what they say: every time God cl
 
 (Commentary)
 
-Phil: I mean, am I attracted to her? Yes. Would I ever act on it? No. No way. Not while my wife is still alive.
+Phil: I mean, am I **attracted to** her? Yes. Would I ever **act on** it? No. No way. Not while my wife is still alive.
+
+> * ***be attracted to sb***
+>
+>    * I've always been very attracted to blondes.
+
+> * ***act on/upon sth*** -- take action as a result of advice, information, etc.
+>
+>    * Police say they acted on information received.
 
 (Cut back to scene)
 
@@ -102,13 +128,17 @@ Desiree: Okay. Thank you!
 
 # **Scene 10 : Palms Cycle (bicycle store)**
 
-Phil: …So to teach him a lesson, I took his bike, and then crazy thing: I put it down for one minute and someone swiped it from me.
+Phil: …So to teach him a lesson, I took his bike, and then crazy thing: I put it down for one minute and someone **swiped** it from me.
+
+> * ***swipe*** -- v. steal sth
 
 Assistant: Maybe that was your dad teaching you a lesson.
 
 Phil: Ahaha. Zinger. So… any chance I could, uh, get a break on this one?
 
-Assistant: I can throw in a bell-
+Assistant: I can **throw in** a bell-
+
+> * ***throw in*** -- include sth with what you are selling or offering, without increasing the price.
 
 Phil: Deal!
 
@@ -116,6 +146,8 @@ Assistant: -for five dollars.
 
 Phil: No, sir.
 
-Assistant: So you wanna go for the insurance this time or is it still for suckers?
+Assistant: So you wanna go for the insurance this time or is it still for **suckers**?
+
+> * ***sucker*** -- n. a person who is easily tricked or persuaded to do sth
 
 Phil: Hahaha. Caught me again. Well played, m’ lord. I will take some insurance, thank you.
