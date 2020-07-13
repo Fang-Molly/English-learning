@@ -24,19 +24,32 @@ Manny: Well, I warned him.
 
 Jay: Yep, he’s been a big help.
 
-Gloria: Look at you two with your private jokes already. You’re a regular Salazar and El Oso.
+Gloria: Look at you two with your **private jokes** already. You’re a regular Salazar and El Oso.
+
+> * ***a private joke*** -- a joke made between friends, family members etc that other people do not understand
 
 (Commentary)
 
-Gloria: It’s a very big comedy to me in Colombia. El Oso is always hit Salazar in the head with the lada and things, and sometimes they wore dresses. They make you laugh, but they also make you think.
+Gloria: It’s a very big **comedy** to me in Colombia. El Oso is always **hit Salazar in the head with the lada and things**, and sometimes they wore dresses. They make you laugh, but they also make you think.
 
+> * ***comedy*** -- n. a play or film/movie that is intended to be funny, usually with a happy ending
+
+> * ***hit sb in/on/over the head with sth***
+>
+>    * She hit him on the head with her umbrella.
 ----------------------- 
 
 **Scene 12 : Dunphy household**
 
 (Phil leaves bicycle at bottom of stairs)
 
-Phil: You blew it. You made me look bad. No, you made your mother and I look bad. We’re a team. (knocks on Luke’s door) Luke, you in there?
+Phil: You **blew** it. You made me look bad. No, you made your mother and I look bad. We’re a team. (knocks on Luke’s door) Luke, you in there?
+
+> * ***blow*** -- v. make a mistake which wastes the chance or causes the attempt to fail
+>
+>    * You had your chance and you blew it.
+>
+>    * He has almost certainly blown his chance of touring India this winter.
 
 Luke: Hey, dad.
 
@@ -48,15 +61,21 @@ Phil: So, uh, what happened after I took off? Anything you wanna… share with m
 
 Luke: Not really.
 
-Phil: So… if I, uh, went out to the garage to take a picture for a scrapbook, there’d be no surprises?
+Phil: So… if I, uh, went out to the garage to take a picture for a **scrapbook**, there’d be no surprises?
+
+> * ***scrapbook*** -- n. a book with empty pages where you can stick pictures, newspaper articles, etc.
 
 Luke: …I’m so sorry! I didn’t mean it. I just made a mistake!
 
 Phil: Yeah, a big mistake! You’re making me look really bad here; I told mom you were ready for this.
 
-Luke: It’s just a scratch, dad.
+Luke: It’s just a **scratch**, dad.
 
-Phil: That’s not the point, Luke- what?
+> * ***scratch*** -- n. a mark, a cut or an injury made by scratching sb's skin or the surface of sth 
+
+Phil: **That’s not the point**, Luke- what?
+
+> * ***That's not the point.*** -- not the important thing
 
 Luke: I scratched it on my way into the driveway. I’m sorry.
 
@@ -64,11 +83,29 @@ Phil: So… it’s not stolen?
 
 Luke: …No. Why?
 
-Phil: That’s good… ’cause… there are bad people out there who would steal a bike. Those are thieves. (walks out) You sit there and think about the scratch part; that’s not good either – gotta fix that step – so don’t scratch anything while I’m gone, unless it itches. That’s different.
+Phil: That’s good… ’cause… there are bad people out there who would steal a bike. Those are thieves. (walks out) You sit there and think about the scratch part; that’s not good either – gotta fix that step – so don’t scratch anything while I’m gone, unless it **itches**. That’s different.
+
+> * ***itch*** -- v. have an uncomfortable feeling on your skin that makes you want to scratch
 
 (Commentary)
 
-Phil: The good news is Luke has his bike. More good news: I taught some random kid a valuable lesson by stealing his bike. Best news: Claire knows nothing. So, I figure I’ll just dump the new bike where I stole the first bike, that way random kid gets his back and this new bike doesn’t raise a lot of embarrassing questions like why I had it, or who boosted who through the bedroom window. So, everyone’s happy.
+Phil: The good news is Luke has his bike. More good news: I taught some **random** kid a **valuable** lesson by stealing his bike. Best news: Claire knows nothing. So, I figure I’ll just **dump** the new bike where I stole the first bike, that way random kid gets his back and this new bike doesn’t **raise** a lot of embarrassing questions like why I had it, or who **boosted** who through the bedroom window. So, everyone’s happy.
+
+> * ***random*** -- adj. not known or not identified
+>
+>    * Some random guy gave me a hundred bucks.
+
+> * ***valuable*** -- adj. very useful or important
+>
+>    * a valuable experience/lesson/advice
+
+> * ***dump*** -- v. put sth swh in a careless untidy way
+
+> * ***raise*** -- v. mention sth for people to discuss or sb to deal with 
+>
+>    * Betty raised the important question of who will be in charge.
+
+> * ***boost*** -- v. steal sth
 
 (Cut back to scene)
 
@@ -80,7 +117,9 @@ Phil: Uh oh.
 
 # **Scene 13 : Manny’s room**
 
-Jay: Ah, son of a b- You gave me the wrong screwdriver.
+Jay: Ah, son of a b- You gave me the wrong **screwdriver**.
+
+> * ***screwdriver*** -- n. a tool with a narrow blade that is specially shaped at the end, used for turning screws
 
 Manny: Maybe you’re just using it wrong. My dad’s great with tools. He can get the wheels off a car in less than a minute.
 
@@ -94,7 +133,11 @@ Manny: I think my arm is broken!
 
 Jay: Relaaax. It’s not broken.
 
-Manny: How do you know? You don’t know anything! You have no concern for safety!
+Manny: How do you know? You don’t know anything! **You have no concern for safety!**
+
+> * ***have (no) concern for sth***
+>
+>    * They seem to have little concern for the COVID-19 disease that has killed at least 10 and infected at least 300 others in Nigeria.
 
 Jay: Because it didn’t hit you that hard.
 
@@ -108,4 +151,6 @@ Jay: But… but if you leave, how will I ever finish?
 
 Manny: You know what? I wish you’d never married my mom. I hate living here.
 
-Jay: You think I like this arrangement? I got a two-seater parked in the driveway!
+Jay: You think I like this **arrangement**? I got a two-seater parked in the driveway!
+
+> * ***arrangement*** -- n. a plan or preparation that you make so that sth can happen
