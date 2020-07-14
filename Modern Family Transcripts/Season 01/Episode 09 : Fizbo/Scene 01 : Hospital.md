@@ -1,28 +1,61 @@
-Scene: Hospital
+# Scene 01 : Hospital
+
 Jay: Do we know anything?
 
-Mitchell: Oh, no, they’re in there now with the doctor. We’re lucky, though – the paramedics said it could’ve been a lot worse.
+Mitchell: Oh, no, they’re in there now with the doctor. We’re lucky, though – the **paramedics** said it could’ve been a lot worse.
+
+> * ***paramedic*** -- n. a person whose job is to help people who are sick or injured, but who is not a doctor or a nurse
 
 Jay: My god, how did this even happen?
 
-Scene: A few hours earlier at Claire & Phil’s house
-Phil: There he is! Big day’s coming up. What do you want for your birthday, big god?
+
+# Scene 02 : A few hours earlier at Claire & Phil’s house
+
+Phil: There he is! Big day’s **coming up**. What do you want for your birthday, big god?
+
+> * ***come up*** -- (of an event or a time) to be going to happen very soon
+>
+>    * Her birthday is coming up soon.
 
 Luke: It’s okay; I’m good.
 
-Phil: Come on. The sky’s the limit. Dream big, my boy.
+Phil: Come on. **The sky’s the limit.** **Dream big**, my boy.
+
+> * ***the sky's the limit*** -- there is no limit to what sb can achieve, earn, do, etc.
+>
+>    * With a talent like this, the sky's the limit.
+
+> * ***dream big***
+>
+>    * He encourages everyone to dream big and keep pushing.
 
 Luke: Well, I guess I could use a belt.
 
 Claire: A belt?
 
-Luke: Yeah, you’re right. I don’t need it. The extension cord works pretty good.
+Luke: Yeah, you’re right. I don’t need it. The **extension cord** works pretty good.
+
+> * ***extension cord*** -- extension lead, an extra length of electric wire, usde when the wire on an electrical device is not long enough
 
 (Commentary)
 
-Phil: Every year, Luke’s birthday falls right around Thanksgiving, and so it gets lost in the holiday shuffle.
+Phil: Every year, Luke’s birthday **falls** right around Thanksgiving, and so it **gets lost in the holiday shuffle**.
 
-Claire: Yeah, one year we forgot completely and we had to improvise a cake of stuffing.
+> * ***fall*** -- v. (special event/celebration) happen on a particular day or at a particular time
+> 
+>    * My birthday falls on a Monday this year.
+
+> * ***be/get lost in the shuffle*** -- not notice sb/sth or pay attention to sb/sth because of a confusing situation
+>
+>    * Middle children tend to get lost in the shuffle.
+
+Claire: Yeah, one year we forgot completely and we had to **improvise** a cake of **stuffing**.
+
+> * ***improvise*** -- v. make something by using whatever you can find because you do not have the equipment or materials that you need
+>
+>    * There were no nappies, so we had to improvise with what we could find..
+
+> * ***stuffing*** -- n. a mixture of bread or rice, onion etc that you put inside a chicken, pepper etc before cooking it
 
 Phil: Which, by the way, he was fine with. He’s one of those kids: you get him a gift and all he want to do is play with the box.
 
@@ -32,7 +65,7 @@ Phil: And we made the mistake of putting it in a gift bag.
 
 Claire: So he played with the gift bag.
 
-Phil: …We can’t get it right.
+Phil: …We can’t **get it right**.
 
 Claire: No.
 
@@ -46,7 +79,11 @@ Phil: We’ve got to do something.
 
 Claire: Yeah… Um, well, you know the family is gonna be together for Thanksgiving for the first time in I-don’t-even-know-how-long, so…
 
-Phil: I am so with you. We should blow this out and throw Luke the best birthday party of all time.
+Phil: **I am so with you.** We should **blow this out** and **throw** Luke the best birthday party of all time.
+
+> * ***blow out*** -- cancel
+
+> * ***throw sb a party*** -- give sb a party
 
 Claire: Yes! Yes, we’ll order a whole bunch of pizzas and, and then set up an arts and crafts table.
 
@@ -56,7 +93,9 @@ Claire: Y-yeah, a crafts table! You know, everybody… gathers around and they m
 
 Phil: (snorts) Sorry, I fell asleep while you were describing the most boring party ever. (gets hit by Claire) Ow!
 
-Scene: Cameron & Mitchell’s house
+
+# Scene 03 : Cameron & Mitchell’s house
+
 Cameron: See you in a few hours.
 
 Phil: Yeah. Thanks again karaoke machine. I’ll give it back to you right after the party.
@@ -105,7 +144,9 @@ Mitchell: Yeah.
 
 Cameron: Who hurt you?
 
-Scene: Jay & Gloria’s house
+
+# Scene 04 : Jay & Gloria’s house
+
 Jay: Hey Gloria, you got any idea how to wrap one of these things?
 
 Gloria: Is that a crossbow?
@@ -142,7 +183,9 @@ Manny: I’ve tried everything to get her attention: opening doors, having her m
 
 Jay: Here’s the deal: girl’s don’t go for all that romantic stuff. They go for power and success, and sine you don’t have either one of those things, you’re gonna be the funny guy.
 
-Scene: Claire & Phil’s house
+
+# Scene 05 : Claire & Phil’s house
+
 Phil: No, no. No, no, no. I want the most dangerous reptile you’ve got.
 
 Tanya: I have an iguana that, uh, eats crickets.
@@ -161,14 +204,18 @@ Phil: Well then, we’re back to square one, aren’t we?
 
 Cameron: I couldn’t get Luke out of my mind. I know I made a promise to Mitchell, but… some things are bigger than promises. Fizbo would be at that party. (looks in mirror after applying make-up) Hello, old friend.
 
-Scene: Hospital
+
+# Scene 06 : Hospital
+
 Hayley: It all happened so fast.
 
 Jay: I keep thinking there is something I could’ve done.
 
 Mitchell: No, don’t blame yourself. Who could’ve possibly seen that coming?
 
-Scene: A few hours earlier outside Claire & Phil’s house
+
+# Scene 07 : A few hours earlier outside Claire & Phil’s house
+
 Claire: Sweety, that’s a rock wall. Is that even safe? Oh my god.
 
 Phil: Honey, relax. (to guy setting up rock wall) Hey, has anyone ever gotten hurt on one of these things?
@@ -219,7 +266,9 @@ Phil: How could you not? You combined the two things that kids love the most: co
 
 Claire: Where’s my comb? Ah ha, here it is! In my incredibly convenient beaded comb sheath that I made at Luke’s awesome birthday party. Hole in one, Mrs Dunphy. Hole in one.
 
-Scene: Cameron & Mitchell’s house
+
+# Scene 08 : Cameron & Mitchell’s house
+
 Mitchell: I’m home! I got Luke a video game, but it’s about math, so… I guess we’re those kind of uncles. Cam?
 
 Cameron: (enters in a clown outfit) Don’t be mad.
@@ -250,7 +299,9 @@ Cameron: He’s an innocent whose only drive is to bring people joy and laughter
 
 Mitchell: Ah. Oh, okay, well at least we agree on something. Yeah.
 
-Scene: Birthday party at Claire & Phil’s house
+
+# Scene 09 : Birthday party at Claire & Phil’s house
+
 Phil: (while taping) If this tape is found in the future, this is how we humans celebrated birthdays.
 
 Luke: (sliding down) Hey dad!
@@ -271,7 +322,9 @@ Claire: Okay honey. It’s your day!
 
 Phil: Honey, let me know if you get low on supplies; I’ll make a quick round back to the 1950s for you. (gets knocked over by girl sliding down) Again?! Seriously! Zipline guys, just… some ropes.
 
-Scene: Cameron & Mitchell’s car
+
+# Scene 10 : Cameron & Mitchell’s car
+
 Cameron: Did you remember to switch the lights to the dryer?
 
 Mitchell: Ugh. No, I forgot.
@@ -290,7 +343,9 @@ Mitchell: Without question.
 
 Cameron: You know, people are gonna stare ’cause they’re not used to seeing one clown in a car.
 
-Scene: Luke’s birthday party
+
+# Scene 11 : Luke’s birthday party
+
 Manny: That’s her. Bianca Douglas.
 
 Gloria: She’s so cute.
@@ -321,7 +376,9 @@ Bianca: Interrupting cow who?
 
 Manny: Moo. Oh, crap.
 
-Scene: Gas station
+
+# Scene 12 : Gas station
+
 Mitchell: (gets bumped by car) Um, hey!
 
 Driver: Hey yourself. Move!
@@ -356,7 +413,9 @@ Driver: Okay! I’m sorry. (Fizbo points to Mitchell) I’m sorry. (walks off)
 
 Fizbo: Let’s go; we’re gonna be late.
 
-Scene: Jumping castle at Luke’s party
+
+# Scene 13 : Jumping castle at Luke’s party
+
 Gloria: Mind if I come in?
 
 Manny: Sure.
@@ -373,7 +432,9 @@ Gloria: You see right there. You need no tricks. Just be the sweet, wonderful li
 
 Manny: Sweet little boy. I got it. She won’t know what hit her.
 
-Scene: Crafts table at Luke’s party
+
+# Scene 14 : Crafts table at Luke’s party
+
 Claire: Hey Manny. Wanna make a comb sheath?
 
 Manny: Now would be the worst time, Claire.
@@ -390,7 +451,9 @@ Phil: And your hair looks really nice.
 
 Claire: Mhhh, thanks. I’ve been combing it all day.
 
-Scene: Room at Luke’s party
+
+# Scene 15 : Room at Luke’s party
+
 Tanya: Alright, let’s all give Luke a big hand for being so brave.
 
 Luke: (with lizard on his head) It feels so weird. What does it eat.
@@ -427,14 +490,18 @@ Tanya: Oh, no! (touches Dylan’s arm)
 
 Dylan: No way. I can’t believe it does that.
 
-Scene: Jumping castle at Luke’s party
+
+# Scene 16 : Jumping castle at Luke’s party
+
 Jay: (to men gathered around) Hey, what am I missing, guys? Ah geez, Gloria.
 
 Gloria: (jumping up and down) Jay, look! I go high! Look, look!
 
 Jay: Guys, hit the road. Come on, you’re family men. Come on, stat.
 
-Scene: Rock wall at Luke’s party
+
+# Scene 17 : Rock wall at Luke’s party
+
 Phil: Great job, buddy. Now comes the fun part: repell down.
 
 Luke: It’s really high.
@@ -473,7 +540,9 @@ Phil: What? Yeah, I have some kind of a… complicated relationship with clowns.
 
 Mitchell: Oh. Well, join the club.
 
-Scene: Room at Luke’s party
+
+# Scene 18 : Room at Luke’s party
+
 Manny: Look… I came on strong with that whole funny guy bit. This is me just being myself.
 
 Bianca: Okay. Hey, do you know who that boy is over there?
@@ -528,14 +597,18 @@ Dylan: Is everything okay?
 
 Tanya: No. I… lost a poisonous scorpion and I need to find it. Okay, kids! Um, let’s all tuck our pants into our socks. Avoid shady, moist places and let’s make a game of looking where we step.
 
-Scene: Hospital
+
+# Scene 19 : Hospital
+
 Alex: Is he okay?
 
 Mitchell: Can we see him?
 
 Claire: He’s with the doctor right now. These things happen, right? No matter how careful you are.
 
-Scene: One hour earlier at Luke’s party
+
+# Scene 20 : One hour earlier at Luke’s party
+
 Luke: Hey, look what grandpa gave me – a crossbow.
 
 Claire: Sweety, that does not look safe.
@@ -624,7 +697,9 @@ Claire: …Oops.
 
 Phil: Come on, here we go. (lifts Luke up)
 
-Scene: Hospital
+
+# Scene 21 : Hospital
+
 Gloria: (enters) How is he?
 
 Claire: Oh, he’s gonna be fine.
