@@ -98,17 +98,25 @@ Phil: (snorts) Sorry, I fell asleep while you were describing the most boring pa
 
 Cameron: See you in a few hours.
 
-Phil: Yeah. Thanks again karaoke machine. I’ll give it back to you right after the party.
+Phil: Yeah. Thanks again **karaoke** machine. I’ll give it back to you right after the party.
+
+> * ***karaoke*** -- n. a type of entertainment in which a machine plays only the music of popular songs so that people can sing the words themselves
+>
+>    * karaoke machine/night/bar
 
 Cameron: That’ll be great.
 
-Mitchell: (whispers to Phil) Please don’t. I beg you. Don’t… don’t bring it back.
+Mitchell: (whispers to Phil) Please don’t. **I beg you.** Don’t… don’t bring it back.
 
 Phil: (whispers back) Oh.
 
 Cameron: Hey Phil. Are, uh, you getting a clown for today?
 
-Phil: Oh… no. Luke, uh, Luke’s not much of a clown fan.
+Phil: Oh… no. Luke, uh, **Luke’s not much of a clown fan.**
+
+> * ***be not much of a sth*** -- not be a good example of sth or not be very good at sth
+>
+>    * I'm not much of a dancer, I'm afraid.
 
 Cameron: …Really?
 
@@ -120,7 +128,9 @@ Phil: Has… has anyone? Really, so… thanks again.
 
 Cameron: See you later. (after Phil is gone) No clown? No… no clown?
 
-Mitchell: Let it go.
+Mitchell: **Let it go.**
+
+> * ***Let it go.*** -- ignore, never mind
 
 Cameron: Who throws a party without a clown?
 
@@ -134,7 +144,7 @@ Cameron: But-
 
 Mitchell: This is not. Our. Party.
 
-Cameron: But I ju… fine. What would you suggest we get him then?
+Cameron: But I ju… fine. **What would you suggest we get him then?**
 
 Mitchell: Mhhh, get him a gift card.
 
@@ -149,15 +159,29 @@ Cameron: Who hurt you?
 
 Jay: Hey Gloria, you got any idea how to wrap one of these things?
 
-Gloria: Is that a crossbow?
+Gloria: Is that a **crossbow**?
 
-Jay: Yeah. Am I the greatest grandpa in the world or what?
+> * ***crossbow*** -- n. a weapon consisting of a small, powerful bow that is fixed across a piece of wood, and aimed like a gun.
 
-Gloria: We can’t give Luke a crossbow. He pokes himself in the eye everytime he uses a straw.
+Jay: Yeah. Am I the greatest grandpa in the world **or what**?
 
-Jay: Are you kidding? I used to have one when I was his age. My dad used to give me a quarter for every crow I bagged.
+> * ***or what*** -- say it after a question as a way of stating an opinion forcefully and showing that you expect other people to agree.
+>
+>    * Look at that moon. Is that beautiful or what?
 
-Gloria: And I used to have a machete. But times have changed.
+Gloria: We can’t give Luke a crossbow. He **pokes** himself in the eye everytime he uses a **straw**.
+
+> * ***poke*** -- v. quickly push your fingers or another object into sb/sth
+
+> * ***straw*** -- n. a thin tube of plastic or paper that you suck a drink through
+
+Jay: Are you kidding? I used to have one when I was his age. My dad used to give me a quarter for every crow I **bagged**.
+
+> * ***bag*** -- v. kill or catch an animal or bird
+
+Gloria: And I used to have a **machete**. But times have changed.
+
+> * ***machete*** -- n. a broad heavy knife used as a cutting tool and as a weapon
 
 Jay: He’ll be fine. I’ll teach him how to use it. (Manny enters) Hey pal. How’s it going?
 
