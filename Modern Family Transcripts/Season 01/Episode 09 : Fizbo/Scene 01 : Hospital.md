@@ -179,31 +179,57 @@ Jay: Are you kidding? I used to have one when I was his age. My dad used to give
 
 > * ***bag*** -- v. kill or catch an animal or bird
 
-Gloria: And I used to have a **machete**. But times have changed.
+Gloria: And I used to have a **machete**. But **times have changed**.
 
 > * ***machete*** -- n. a broad heavy knife used as a cutting tool and as a weapon
 
+> * ***times*** -- pl. a period of history connected with particular events or experiences in people's lives
+>
+>    * Times have changed since Grandma was young.
+
 Jay: He’ll be fine. I’ll teach him how to use it. (Manny enters) Hey pal. How’s it going?
 
-Manny: Am I charming?
+Manny: Am I **charming**?
+
+> * ***charming*** -- adj. very pleasant or attractive
 
 Jay: Oh boy…
 
 Gloria: Of course you’re charming! Who said you were not charming?
 
-Manny: No one. But there is a girl at my school and I want her to like me. I need your advice, Jay.
+Manny: No one. But there is a girl at my school and I want her to like me. **I need your advice**, Jay.
+
+> * take/follow/need/ask/give sb's advice
+> * on sb's advice
+> * advice on/about sth
 
 Jay: Really?
 
 Manny: She’s gonna be at Luke’s party.
 
-Jay: Well, I’m… a little thrown. I mean, you don’t usually come to me for advice.
+Jay: Well, I’m… a little **thrown**. I mean, you don’t usually come to me for advice.
+
+> * ***throw*** -- v. make sb feel upset, confused, or surprised
+>
+>    * Well, I confess to being a little thrown when I saw you.
 
 Manny: Well, this is one area in which you’ve done pretty well.
 
-Gloria: He has a point.
+Gloria: **He has a point.**
 
-Manny: I’ve tried everything to get her attention: opening doors, having her milk sent over in the cafeteria… but nothing’s worked.
+> * ***You have a point there.*** = I agree with your idea or opinion. = I take your point.
+
+Manny: **I’ve tried everything to get her attention: opening doors, having her milk sent over in the cafeteria… but nothing’s worked.**
+
+> * ***try everything to do sth***
+>
+>    * I tried everything to lose weight with no success.
+
+> * ***attract/catch/get sb's attention***
+
+> * ***send sth over/back/up etc***
+>
+>    * He ordered coffee to be sent up.
 
 Jay: Here’s the deal: girl’s don’t go for all that romantic stuff. They go for power and success, and sine you don’t have either one of those things, you’re gonna be the funny guy.
 
