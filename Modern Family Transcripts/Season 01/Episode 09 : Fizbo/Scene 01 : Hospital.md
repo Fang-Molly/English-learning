@@ -231,8 +231,13 @@ Manny: **I’ve tried everything to get her attention: opening doors, having her
 >
 >    * He ordered coffee to be sent up.
 
-Jay: Here’s the deal: girl’s don’t go for all that romantic stuff. They go for power and success, and sine you don’t have either one of those things, you’re gonna be the funny guy.
+Jay: Here’s the **deal**: girl’s don’t **go for** all that romantic stuff. They go for power and success, and sine you don’t have either one of those things, you’re gonna be the funny guy.
 
+> * ***deal*** -- n. an agreement, especially in business, on particular conditions for buying or doing sth
+
+> * ***go for*** -- to be attracted by sb/sth; to like or prefer sb/sth
+>
+>    * She goes for tall slim man.
 
 # Scene 05 : Claire & Phil’s house
 
@@ -240,13 +245,23 @@ Phil: No, no. No, no, no. I want the most dangerous reptile you’ve got.
 
 Tanya: I have an iguana that, uh, eats crickets.
 
-Phil: That would be scary if it was a birthday party for crickets. Seriously. Jungle Tanya, I need you to step it up a notch. Is there anything that scares the coocoo out of you?
+Phil: That would be scary if it was a birthday party for crickets. Seriously. Jungle Tanya, I need you to **step it up a notch**. Is there anything that **scares the coocoo out of you**?
+
+> * ***step up*** -- increase the amount, speed, etc. of sth
+
+> * ***notch*** -- n. a level on a scale, often marking quality or achievement
+>
+>    * drop/raise/pull down/move up a notch
+
+> * ***scare the life/living daylights/hell/bejesus/shit/coocoo etc out of sb*** -- frighten sb very much
 
 Tanya: Um, not really. I do have a bearded dragon.
 
 Phil: Oooh. Does it-
 
-Tanya: No, it does not breathe fire.
+Tanya: No, it does not **breathe fire**.
+
+> * ***breathe fire*** -- talk and behave in a very angry way
 
 Phil: Well then, we’re back to square one, aren’t we?
 
@@ -266,7 +281,9 @@ Mitchell: No, don’t blame yourself. Who could’ve possibly seen that coming?
 
 # Scene 07 : A few hours earlier outside Claire & Phil’s house
 
-Claire: Sweety, that’s a rock wall. Is that even safe? Oh my god.
+Claire: Sweety, that’s a **rock wall**. Is that even safe? Oh my god.
+
+> * ***rock wall***
 
 Phil: Honey, relax. (to guy setting up rock wall) Hey, has anyone ever gotten hurt on one of these things?
 
@@ -286,7 +303,9 @@ Claire: There’s a snow cone machine?
 
 Phil: Yeah.
 
-Hayley: Mom, just so you know, Dylan can’t have mayonnaise.
+Hayley: Mom, just so you know, Dylan can’t have **mayonnaise**.
+
+> * ***mayonnaise*** -- n. a thick white sauce, made of raw egg yolks and oil, often eaten on sandwiches or salad
 
 Claire: That’s random. Why are you telling me that?
 
@@ -296,7 +315,7 @@ Claire; Is that absolutely necessary?
 
 Hayley: W-
 
-Alex: Yes, because she can’t go ten minutes withouut her boyfriend’s tongue in her mouth. It’s like he’s feeding a baby bird.
+Alex: Yes, because she can’t go ten minutes without her boyfriend’s tongue in her mouth. It’s like he’s feeding a baby bird.
 
 Hayley: Mhhh, don’t be so jealous. I’m sure you’ll meet someone super-hot at computer camp.
 
@@ -308,14 +327,19 @@ Claire: Oh, these are supplies for the crafts table. I finally figured out what 
 
 Phil: Kids bored? Haha, I’m teasing, I’m teasing. It looks good. What is it?
 
-Claire: Comb sheaths. I know, I know… but we made them when I was eleven years old at Donna Rigby’s birthday party. At first we thought it was really stupid, and then we had a blast, so…
+Claire: Comb **sheaths**. I know, I know… but we made them when I was eleven years old at Donna Rigby’s birthday party. At first we thought it was really stupid, and then we **had a blast**, so…
+
+> * ***sheath*** -- n. any covering that fits closely over sth for protection
+
+> * ***have a blast/ball*** -- have a very good time
 
 Phil: How could you not? You combined the two things that kids love the most: combs and sheaths. (Claire walks off) I’m kidding!
 
 (Commentary)
 
-Claire: Where’s my comb? Ah ha, here it is! In my incredibly convenient beaded comb sheath that I made at Luke’s awesome birthday party. Hole in one, Mrs Dunphy. Hole in one.
+Claire: Where’s my comb? Ah ha, here it is! In my incredibly convenient beaded comb sheath that I made at Luke’s awesome birthday party. **Hole in one**, Mrs Dunphy. Hole in one.
 
+> * ***hole in one*** -- get the golf ball into the hole with a single stroke
 
 # Scene 08 : Cameron & Mitchell’s house
 
