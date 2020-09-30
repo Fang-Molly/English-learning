@@ -7,7 +7,7 @@ written by 2020/06/30
 ```
 
 
-Claire : Kids, breakfast! Kids! Ugh, Phil, **would you get them?**
+**1. Would you get them?** 
 
 > * ***Would you do sth?*** -- used to ask sb politely to do sth  
 >
@@ -20,7 +20,7 @@ Claire : Kids, breakfast! Kids! Ugh, Phil, **would you get them?**
 >    * I have to go and get my mother from the airport.
 >    * She's just gone to get the kids from school.
 
-Phil : (busy on cellphone) Yeah, **just a sec.**
+**2. Just a sec.**
 
 > * ***sec.*** -- abbr. second(s)
 >
@@ -37,16 +37,15 @@ Phil : (busy on cellphone) Yeah, **just a sec.**
 >    * have a sec
 >       * Do you have a sec?
 
-Claire : Kids! (drops container) Okay.
 
-Phil : That is so ... Kids! **Get down here!**
+**3. Get down here!**
 
 > * ***get down here***
 >
 >    * Would you get down here and help me?
 >    * You better get down here as soon as you can.
 
-Haley : (enters) **Why are you guys yelling at us when we're way upstairs? Just text me.**
+**4. Why are you guys yelling at us when we're way upstairs? Just text me.**
 
 > * ***(you) guys*** -- used when talking to or about a group of people, male or female
 >
