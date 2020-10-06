@@ -96,8 +96,6 @@
 
    * a wedding/cowboy/Superman outfit
 
-
-
 **7. do you have anything to say to your daughter...about her skirt?**
 
 * ***Do you have anything to say to sb about sth?***
@@ -264,138 +262,292 @@
 
 **18. she’s adorable! Hi, precious!**
 
-> * ***adorable*** -- adj. very attractive and easy to feel love for
->
->    * What an adorable child!
+* ***adorable*** -- adj. very attractive and easy to feel love for
 
-> * ***precious*** - adj. used to speak to sb you love, especially a baby or small child
->
->    * Come sit by me, precious.
+   * What an adorable child!
+
+* ***precious*** - adj. used to speak to sb you love, especially a baby or small child
+
+   * Come sit by me, precious.
 
 **19. We just- we just adopted her from Vietnam and… we’re bringing her home for the first time, huh.**
 
-> * ***adopt*** -- v. take sb else's child into your family and become its legal parent(s)
->    
-> * adopt sb -- Sally was adopted when she was four.
+* ***adopt*** -- v. take sb else's child into your family and become its legal parent(s)
+    
+   * adopt sb -- Sally was adopted when she was four.
 
-> * ****bring sb home***
->
->    * It was the first time Joey had ever brought a girl home.
+* ****bring sb home***
 
-> * ***for the first time***
->
->    * For the first time in his life he felt truly happy.
+   * It was the first time Joey had ever brought a girl home.
+
+* ***for the first time***
+
+   * For the first time in his life he felt truly happy.
 
 **20. You and your wife must be so **thrilled**.
 
-> * ***thrilled*** -- adj. very excited and pleased
->    
->    * He was thrilled at the prospect of seeing them again.
+* ***thrilled*** -- adj. very excited and pleased
+   
+   * He was thrilled at the prospect of seeing them again.
 
-**21. so we had initially asked one of our lesbian friends to be a surrogate, but-**
+**21. so we had initially asked one of our lesbian friends to be a surrogate, but-Then we figured they’re already mean enough; can you imagine one of them pregnant?**
 
-> * ***lesbian*** -- n. a women who is sexually attracted to other women
->
-> * ***gay*** -- n. sb who is homosexual, especially a man
+* ***lesbian*** -- n. a women who is sexually attracted to other women
 
-> * ***surrogate*** -- n. a surrogate mother
+* ***gay*** -- n. sb who is homosexual, especially a man
 
-Cameron: **Then we figured they’re already mean enough; can you imagine one of them pregnant?**
+* ***surrogate*** -- n. a surrogate mother
 
-> * ***figure*** -- v. form a particular opinion after thinking about a situation
->
-> * figure (that) -- We figured the sensible thing to do was to wait.
+* ***figure*** -- v. form a particular opinion after thinking about a situation
 
-> * ***Can you imagine ... ?***
->
-> * Can you imagine what it must be like to lose your job after 20 years?
->
-> * ***imagine sb adj./n.***
->
->    * I can imagine him really angry.
+   * figure (that) -- We figured the sensible thing to do was to wait.
 
-Mitchell: Don’t think so.
+* ***Can you imagine ... ?***
 
-Cameron: No, thank you. Ick.
+   * Can you imagine what it must be like to lose your job after 20 years?
 
-(Cut back to scene)
+* ***imagine sb adj./n.***
 
-Mitchell: You saw that, right? Everybody **fawning over** Lily, and then you walk on and suddenly it’s all “Oooh, SkyMall, I gotta buy a **motorized** tie rack.” Alright, you know, I’m- I’m gonna **give a speech**.
+   * I can imagine him really angry.
 
-> * ***fawn on/over sb*** -- try to please sb by praising them or paying them too much attention
->
->    * I refused to fawn over her or flatter her.
+**22. Everybody fawning over Lily, and then you walk on and suddenly it’s all “Oooh, SkyMall, I gotta buy a motorized tie rack.” Alright, you know, I’m- I’m gonna give a speech.**
 
-> * ***motorized*** -- adj. having an engine
->
->    * motorized vehicles/wheelchair
+* ***fawn on/over sb*** -- try to please sb by praising them or paying them too much attention
 
-> * ***give/make/deliver (+ on/about) a speech***
->
->    * Each child had to give a short speech to the rest of the class.
+   * I refused to fawn over her or flatter her.
 
-Cameron: You are not giving a speech.
+* ***motorized*** -- adj. having an engine
 
-Mitchell: Why?
+   * motorized vehicles/wheelchair
 
-Cameron: You’re gonna **be stuck with** these people for the next five hours.
+* ***give/make/deliver (+ on/about) a speech***
 
-> * ***be stuck with sb*** -- have to spend time with sb or have a relationship with them even though you do not want to
->
->    * They are stuck with each other with no end in sight.
->
->    * I was stuck with him for the whole journey.
+   * Each child had to give a short speech to the rest of the class.
 
-Mitchell: You’re right, you’re right. Okay, I’m sorry.
+**23. You’re gonna be stuck with these people for the next five hours.**
 
-Lady: Honey, honey, look at those babies with those **cream puffs**.
+* **be stuck with sb** -- have to spend time with sb or have a relationship with them even though you do not want to
 
-> * ***cream puff*** -- 1. a small light cake that is empty inside and can be filled with whipped cream; 2. a person who is very easy to control, not strong or brave
+   * They are stuck with each other with no end in sight.
 
-Mitchell: Okay, excuse me. (stands up) Excuse me, but this baby would’ve grown up in a **crowded orphanage** if it wasn’t for us cream puffs. And you know what? No, to all of you who judge-
+   * I was stuck with him for the whole journey.
 
-> * ***crowded*** -- adj. having a lot of people or too many people
->
->    * crowded streets/bar/room/restaurant
+**24. Honey, honey, look at those babies with those cream puffs.**
 
-> * ***orphanage*** -- n. a home for children whose parents are dead
->
-> * ***orphan*** -- n. a child whose parents are both dead
+* ***cream puff*** 
 
-Cameron: Mitchell…
+   1. a small light cake that is empty inside and can be filled with whipped cream; 
+   
+   2. a person who is very easy to control, not strong or brave
 
-Mitchell: -hear this: love knows no race, **creed**-
+**25. Excuse me, but this baby would’ve grown up in a crowded orphanage if it wasn’t for us cream puffs. And you know what? No, to all of you who judge--hear this: love knows no race, creed--or gender. And shame on you, you small-minded, ignorant few-**
 
-> * ***creed*** -- n. a set of principles or religious beliefs
->
->    * people of all races, colours and creeds
+* ***crowded*** -- adj. having a lot of people or too many people
 
-Cameron: Mitchell…
+   * crowded streets/bar/room/restaurant
 
-Mitchell: -or gender. And **shame on you**, you **small-minded**, **ignorant** few-
+* ***orphanage*** -- n. a home for children whose parents are dead
 
-> * ***shame on you*** -- used to say that sb should feel ashamed for sth they have said or done
+   * ***orphan*** -- n. a child whose parents are both dead
 
-> * ***small-minded*** -- adj. thinking too much about your own life and problems and not about important things - used this to show disapproval
+* ***creed*** -- n. a set of principles or religious beliefs
 
-> * ***ignorant*** -- adj. lacking knowledge or information about sth; not educated
->
->    * an ignorant person/question 
+   * people of all races, colours and creeds
 
-Cameron: Mitchell!
+* ***shame on you*** -- used to say that sb should feel ashamed for sth they have said or done
 
-Mitchell: What?!
+* ***small-minded*** -- adj. thinking too much about your own life and problems and not about important things - used this to show disapproval
 
-Cameron: (motions to cream puffs in Lily’s hands) She’s got the cream puffs.
+* ***ignorant*** -- adj. lacking knowledge or information about sth; not educated
 
-Mitchell: Oh. 
+   * an ignorant person/question 
 
-Cameron: …We would like to **pay for everyone’s headsets**.
+**26. We would like to **pay for everyone’s headsets.**
 
-> * ***pay for sth***
->
->    * I'll pay for the tickets.
+* ***pay for sth***
 
-> * ***headset*** -- n. a set of headphones, often with a microphone attached
+   * I'll pay for the tickets.
+
+* ***headset*** -- n. a set of headphones, often with a microphone attached
+
+---------------------
+
+**27. why do you keep getting stuck like this?**
+
+* ***keep (on) doing sth*** -- do sth repeatedly; do the same thing many times
+ 
+   * I keep telling you, but you won't listen!
+
+* ***get/be stuck*** -- impossible or unable to move from a particular position
+   
+   * She tried to crawl through the window, but she got stuck.
+
+**28. I thought I could get out this time.**
+
+* ***I thought I could do sth***
+
+   * I thought we could go out tonight.
+
+**29. I’m just gonna say it: he needs to be checked by a specialist.**
+
+* ***specialist*** -- a doctor who knows more about one particular type of illness or treatment than other doctors
+
+   * a heart/cancer specialist
+
+**30. There. Be free, Excalibur.**
+
+* ***there*** -- excl. used to express satisfaction that you were right about sth or to show that sth annoys you
+
+   * There now! What did I tell you?
+
+* ***be free***
+
+   * Ned would be free to go home.
+
+**31. I’m having a friend over today.**
+
+* ***have sb over*** -- invite sb to come to your home to have a meal or to spend time with you
+
+   * My father is having some colleagues over from the University tonight.
+
+**32. Easy, easy…**
+
+* ***easy*** -- adv. used to tell sb to be careful when doing sth
+
+   * Easy with that chair - one of its legs is loose.
+
+**33. Fight in the sun; it’ll be a nice change. I’m kidding.**
+
+* ***kid*** -- v. say sth that is not true, especially as a joke
+
+* ***just / only kidding***
+
+   * Don't get mad, I was just kidding.
+
+   * Just kidding. Don't worry.
+
+**34. I might as well just tell him not to come because you guys are just going to embarrass me again.**
+
+* ***may/might (just) as well do sth*** -- do sth because it seems best in the situation that you are in, although you may not really want to do it
+    
+   * If no one else wants it, we might as well give it to him.
+
+* ***embarrass*** -- v. make sb feel ashamed, nervous, or uncomfortable, especially in front of other people
+
+   * He didn't want to embarrass her by asking questions.
+
+**35. Sweety, hang on a second. You’re fifteen and it’s the first time you’ve had a boy over. I mean, I’m bound to be a little surprised, but… not embarrass you.**
+
+* ***hang/hold on a second/minute*** -- wait for a while
+
+* ***It/this/that is the first time (that) ...***
+
+   * It was the first time that he had lost a game.
+
+* ***be bound to do/be sth*** -- certain or likely to happen, or to do or be sth
+   
+   * You've done so much work - you're bound to pass the exam.
+
+**36. I better go charge the camcorder.**
+
+* ***(had) better do sth*** -- used for saying that sb should do sth
+
+   * You'd better take an umbrella - it's going to rain.
+
+* ***go do sth = go and do sth*** -- move to a particular place in order to do sth
+
+   * Go wash your hands.
+
+* ***charge*** -- v. pass electricity through sth so that it is stored there
+   
+   * I had forgotten to charge the battery.
+
+* ***camcorder*** -- n. a video camera that records pictures and sound and that can be carried around
+
+**37. I’m the cool dad. That’s my thing. I’m hip, I surf the web, I text. LOL: laugh out loud, OMG: oh my god, WTF: why the face?**
+
+* ***That's my thing.*** -- That's my style.
+
+* ***hip*** -- adj. doing things or done according to the latest fashion
+
+* ***surf the web/Net/Internet***
+
+   * I was surfing the Net looking for information on Indian music.
+
+**38. I didn’t mean to! It was an accident.**
+
+   * I'm sorry I hurt you. I didn't mean to.
+   
+   * I didn't mean to break it - it was an accident.
+
+**39. Language!**
+
+**40. What did I tell you would happen if you got him a gun? Deal with this.**
+
+* ***What did I tell you would happen if ...***
+
+* ***deal with sth*** -- solve a problem, perform a task, etc.
+
+   * deal with enquiries/issues/complaints/matter/pressure
+
+   * Don't worry. I will deal with this.
+
+**41. Buddy, uncool.**
+
+* ***uncool*** -- adj. not fashionable or acceptable – used especially by young people;
+
+**42. The agreement was that if he shoots someone, you shoot him.**
+
+* ***agreement*** -- n. an arrangement, a promise or a contract made with sb
+
+   * **The agreement was that ...**
+   
+      * Our agreement was that you would pay by the first of the month.
+
+**43. Yes we were serious about that, and now you have to follow through.**
+
+* **be serious about ...**
+
+* ***follow through*** -- do what needs to be done to complete sth or make it successful
+
+   * The project went wrong when the staff failed to follow through.
+
+**44. Liar**.
+
+* ***liar*** -- n. a person who tells lies
+
+**45. He’s got a birthday party.
+
+* ***have got*** -- have
+
+   * He's got three children.
+
+**46. What’s more important here, dad?
+
+**47. You can shoot him afterwards. He’ll be home at two.**
+
+* ***afterwards*** -- adv. at a later time; after an event that has already been mentioned
+
+   * Let's go out now and eat afterwards.
+
+**48. No, he’s got a soccer game at three and then oh, we’ve gotta leave for that dinner thing at five.**
+
+* ***leave for*** 
+
+   * I'm leaving for Paris on Tuesday.
+
+**49. I guess that works for me.**
+
+* ***work for sb*** -- used for saying that you agree with a plan or like a particular idea
+
+   * I meditate and do Yoga every day. It works for me and I think it could work for you too.
+
+**50. Sorry, buddy. It’s on the calendar.**
+
+* ***on the calendar***
+
+   * I didn't bother putting it on the calendar.
+   
+------------
 
 
