@@ -420,12 +420,20 @@
 
 * ***kid*** -- v. say sth that is not true, especially as a joke
 
-* ***just / only kidding***
+   * ***just / only kidding***
 
-   * Don't get mad, I was just kidding.
+      * Don't get mad, I was just kidding.
 
-   * Just kidding. Don't worry.
-
+      * Just kidding. Don't worry.
+   
+   * ***I'm not kidding you.***
+   
+   * ***No kidding.***
+      
+   * ***No kidding?/Are you Kidding (me)?***
+   
+   * ***You're kidding (me)/You must be kidding.***
+ 
 **34. I might as well just tell him not to come because you guys are just going to embarrass me again.**
 
 * ***may/might (just) as well do sth*** -- do sth because it seems best in the situation that you are in, although you may not really want to do it
@@ -549,5 +557,88 @@
    * I didn't bother putting it on the calendar.
    
 ------------
+
+**51. I’m quitting soccer.**
+
+* ***quit (doing) sth*** -- v. stop doing sth
+
+   * quit smoking/drinking/laught at/complaining
+
+**52. You would’ve stopped the goal if you weren’t staring at the little girl.**
+
+* ***stop the goal*** -- stop sb else to score the goal
+
+* ***stare at sb/sth***
+
+   * He lifted his head and stared at her.
+
+**53. You know, Gloria, that little blow-up with that other mom– why do you have to do things like that?**
+
+* ***blow-up*** -- n. an occasion when sb suddenly becomes angry
+
+* ***Why do you have to do things like that?***
+
+**54. I’m just saying you could take it down here a little bit, that’s all.**
+
+* ***take it down here a little bit***
+
+**55. B-but you don’t have to be so emotional all the time.That’s all I’m saying. Manny, you’re with me on this one, right?**
+
+* ***emotional*** -- adj. showing strong emotions, sometimes in a way that other people think is unnecessary
+
+   * I don't get as emotional as I once did.
+
+* ***That's all I'm saying***
+
+   * That's all I'm saying - they should know the whole story.
+
+* ***be with sb (on sth)***
+
+   * We're all with you on this one.
+
+**56. Oh, for god’s sake.**
+
+* ***for God's/Christ's/goodness'/heaven's/pity's etc sake*** -- used to show that you are angry or annoyed
+
+   * What is it now, for God's sake?
+
+**57. Watch it.** -- used to telling sb to be careful or threatening sb
+
+   * Watch it, there's a car.
+
+**58. Seriously, not to be the evil stepdad, but if you put on a puffy white shirt and declare your love for a sixteen year old, you’re gonna be swinging from the flag pole in your puffy white underpants.**
+
+* ***puffy*** -- adj. looking soft, round and white
+
+   * puffy white clouds
+
+* ***declare*** -- v. to say publicly what you think or feel
+
+   * To declare your love to one another to the world.
+
+**59. You hurt his feelings.**
+
+* ***hurt one's feelings***
+
+   * I didn't mean to hurt your feelings.
+
+**60. Oh, well, if it toughens him up a little bit, then… geez, he’s picking flowers.**
+
+* ***toughen sb up*** -- make sb stronger and more able to deal with difficult situations 
+
+   * He thinks boxing is good for kids, that it toughens them up.
+
+**61. Manny’s very passionate. Just like his father. My first husband, he’s very handsome but too crazy. It seemed like all we did was fight and make love, fight and make love, fight and make love.
+
+* ***passionate*** -- adj. having or showing strong feelings of sexual love or of anger, etc.
+
+   * a passionate love/kiss
+
+* ***It seems like (that) ...***
+
+   * It seems like you're catching a cold, Taylor.
+   
+----------------
+
 
 
