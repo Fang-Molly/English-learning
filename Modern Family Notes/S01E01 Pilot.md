@@ -628,7 +628,7 @@
 
    * He thinks boxing is good for kids, that it toughens them up.
 
-**61. Manny’s very passionate. Just like his father. My first husband, he’s very handsome but too crazy. It seemed like all we did was fight and make love, fight and make love, fight and make love.
+**61. Manny’s very passionate. Just like his father. My first husband, he’s very handsome but too crazy. It seemed like all we did was fight and make love, fight and make love, fight and make love.**
 
 * ***passionate*** -- adj. having or showing strong feelings of sexual love or of anger, etc.
 
@@ -639,6 +639,291 @@
    * It seems like you're catching a cold, Taylor.
    
 ----------------
+
+**62. This doesn’t worry you? She barely slept on the plane and she’s still wide awake.**
+
+* ***This doesn't worry you?***
+
+   * worry sb (about sb/sth)
+
+      * What worries me is how I am going to get another job.
+
+   * It worries sb (that) ...
+
+      * It worries me that he hasn't come home yet.
+
+      * It worries me to think what might happen.
+
+* ***barely*** -- adv. almost not
+
+   * He was so dizzy he could barely stand.
+
+* ***wide awake*** -- fully/completely awake
+
+   * I was already wide awake before the alarm went off.
+
+   * ***half/fully awake***
+
+**63. What the hell is that supposed to mean?**
+
+* ***What/how/why/where etc the hell ... ?*** -- not polite used to show that you are very surprised or angry
+
+   * What the hell do you think you are doing?
+
+   * How the hell are we going to do that?
+
+* ***be supposed to do/be sth*** -- to be expected or required to do/be sth according to a rule, a custom, an arrangement, etc. 
+
+   * What is that supposed to mean?
+
+   * You were supposed to be here an hour ago!
+
+**64. I’ve gained a… few extra pounds while we were expecting the baby, which has been very difficult. But, apparently, your body does a nesting, very maternal, primal thing where it retain nutrients… some sort of molecular physiology thing. But that’s science. You can’t… you can’t fight it, so…**
+
+* ***gain*** -- v. increase weight, speed, height or value
+
+   * gain weight
+
+   * gain a few/some/25 etc. pounds
+
+* ***expect sb*** -- be waiting for sb/sth to arrive, as this has been arranged
+
+   * expect a visit/letter/call from sb
+
+   * We were expecting him yesterday.
+
+* ***apparently*** -- adv. according to what you have heard or read; according to the way sht appears
+
+   * Apparently they are getting divorced soon.
+
+* ***maternal*** -- adj. having feelings that are typical of a caring mother towards a child
+
+   * maternal love/instinct
+
+* ***paternal*** -- adj. connected with being a father; typical of a kind father
+
+   * paternal love
+
+* ***primal*** -- adj. connected with the earliest origins of life; very basic
+
+   * primal fear/urge/emotion
+
+* ***retain*** -- v. store or keep sth inside sth else
+
+   * A lot of information can be retained in your computer.
+
+* ***nutrient*** -- n. a substance that is needed to keep a living thing alive and to help it to grow
+
+   * a lack of essential nutrients
+
+   * nutrient deficiency
+
+* ***physiology*** -- n. the scientific study of the normal functions of living things
+
+**65. Okay, well, that’s reassuring, right, Lily? Yes, we tore you away from everything you know, but don’t worry – things are normal here.**
+
+* ***reassuring*** -- adj. making you feel less worried or uncertain about sth
+
+   * a reassuring smile
+ 
+   * It's reassuring (to know) that we've got the money if necessary
+
+* ***tear sth away (from sth)*** -- leave swh even though you would prefer to stay there; take sth away from swh
+
+   * She was unable to tear her eyes away from him.
+
+   * Dinner is ready, if you can tear yourself away from the TV.
+
+**66. Even Pepper pointed it out on the way home from the airport.**
+
+* ***point sth out*** -- tell someone something that they did not already know or had not thought about
+
+   * He was always very keen to point out my mistakes.
+
+* ***on the/your/its way + to/out/home etc***
+
+   * Guess who I bumped into on the way home.
+
+**67. Yeah, and I don’t blame you. I know your family: you tell them, they say something judgmental.**
+
+* ***blame sb (for sth)***
+
+   * She doesn't blame anyone for her father's death.
+
+* ***judgmental*** -- adj. judging people and criticizing them too quickly
+
+**68. I know, and then something that’s supposed to be nothing but joyful suddenly turns into this huge fight.**
+
+* ***nothing but*** -- only; no more/less than
+
+   * Nothing but a miracle can save her now.
+
+   * I want nothing but the best for my children.
+
+* ***joyful*** -- adj. very happy; causing people to be happy
+
+**69. I’m so relieved you understand.**
+
+* ***relieved*** -- adj. feeling happy because you are no longer worried about sth
+
+**70. I invited them over for dinner tonight.**
+
+* ***invite sb over/round/around*** -- ask sb to come to your home, usually for a drink or a meal
+
+   * We had them over for dinner a couple of times, but they never invited us back.
+
+**71. This would’ve gone on forever. You’re an avoider.**
+
+* ***go on forever*** -- for a long time, usually longer than you would like
+
+   * Their sorrows are your sorrows, and that goes on forever.
+
+* ***avoider*** -- a person likes to avoide sth
+
+**72. And you do have avoidance issues; even Langina said so.**
+
+* ***avoidance*** -- n. not doing sth; preventing sth from existing or happening
+
+* ***issue*** -- n. a problem or worry that sb has with sth
+
+----------
+
+**73. Don’t answer it; I’ll get it!**
+
+* ***answer the phone/door*** -- pick up the telephone and speak when it rings, or go to the door and open it when sb knocks
+
+   * I knocked on the door for a long time, but no one answered.
+
+   * She still isn't answering my calls.
+
+* ***get the phone/door*** -- answer the telephone, or go to the door when sb knocks
+
+   * I'll get the phone. I think it's for me.
+
+   * Can someone get the door - I'm in the shower!
+
+* ***get it*** -- spoken answer the phone/door
+
+   * The phone's ringing. Do you want me to get it?
+
+**74. I’m a senior.**
+
+* ***senior*** -- a student in the last year at a high school
+
+**75. Phil, sweety, honey… he is Dylan and he is a senior… (whispers) and you need to scare him.
+
+* ***scare*** -- make sb feel frightened or worried
+
+   * I'm sorry, I didn't mean to scare you.
+
+   * It scared me to think I was alone in the building.
+
+**76. Let me meet this playa.**
+
+* ***playa*** -- n. a man who is good at meeting women and persuading them to have sex with him
+
+Phil: It’s like that. You just- you just **stare down** on them and let the eyes do the work. Your mouth might be saying, “Hey, we cool,” but your eyes are like, “No, we not.” (points to mouth) “Nice to meet you.” (points to eyes) “No, it’s not.” (points to mouth) “S’all good.” (points to eyes) “S’all (mumbles) isisn’t.”
+
+> * ***stare down/out*** -- look at someone for so long that they start to feel uncomfortable and look away
+>
+>    * But Jobs stared him down, and he agreed to take delivery and pay.
+
+(Cut back to scene)
+
+Phil: Yo.
+
+Dylan: Yo.
+
+Hayley: Okay, I see you guys have-
+
+Phil: Wait, wait, wait! You two… you two **keep it real**, **know what I mean**, son?
+
+> * ***keep it real*** -- behave in an honest way and not pretend to be different from how you really are
+>
+>    * Well, I think we always keep it real, and there's really no real situations.
+
+> * ***(you) know/see what I mean?***
+
+Dylan: Not really.
+
+Hayley: Please stop.
+
+Phil: That’s cool. (hand slips off stair rail) Ow! Oh god, that’s my back!
+
+Claire: Sweetheart…
+
+Phil: Ow! Oh, I **slipped on** the baby oil.
+
+> * ***slip on the ice / wet door***
+>
+>    * She slipped on the icy sidewalk and grabbed Will's arm to steady herself.
+
+(Commentary)
+
+Phil: (points to mouth) “Oh, **where’re you from originally?**” (points to eye) “**I could defeat you if it came to a physical confrontation.**”
+
+> * ***originally*** -- adv. in the beginning, before other things happened or before things changed
+>
+>    * Where are you from originally?
+>
+>    * The family originally came from France.
+
+> * ***defeat sb*** -- win against sb in a game, fight, or election
+>
+>    * He defeated the champion in three sets.
+
+> * ***if it comes to sth*** -- reach a particular state or point , especially one that is bad or unpleasant
+>
+>    * If it comes to a choice between saving people's lives and revealing who I really am, there is no choice.
+>
+>    * If it comes to that, he should ditch the pact.
+
+> * ***physical confrontation***
+> 
+> * ***physical*** -- adj. relating to your body rather than your mind
+>
+> * ***confrontation*** -- n. a fight or battle
+
+(Cut back to scene)
+
+Phil: (being carried by Dylan) Ow, ow, ow, ow.
+
+Claire: I don’t know about this. Should I **call a doctor**?
+
+> * ***call a doctor/the fire department/the police/an ambulance/a taxi*** -- ask sb/sth to come quickly to a particular place by telephoning
+
+Phil: No, no, no, no, no. You’re very strong, homes.
+
+Dylan: Thanks. (places Phil on couch)
+
+Phil: Okay, nice. Nice **soft landing**.
+
+> * ***soft landing*** -- come down onto the ground gently and without any damage
+
+Dylan: **There you go**.
+
+> * ***there you are/go***
+
+Hayley: Okay, let’s go. (she and Dylan leave)
+
+Phil: I am **on my side**, though, so just **flip** me **right** back and we’re good. We’ll be good. I just need to get flipped right on my back, and we should be fine, so…
+
+> * ***on one's side/back/front*** 
+>
+>    * He was lying on his side.
+>
+>    * Do you sleep on your back or your front?
+
+> * ***flip*** -- v. move sth with a quick sudden movement so that it is in a different position
+>
+>    * You’ re supposed to flip a new mattress regularly.
+
+> * ***right*** -- adv. exactly in a particular position or place
+>
+>    * She was standing right in the middle of the room.
+>
+>    * There's the house, right in front of you.
+
 
 
 
