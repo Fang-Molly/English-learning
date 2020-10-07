@@ -15,6 +15,7 @@
    * I have to go and get my mother from the airport.
    
    * She's just gone to get the kids from school.
+   
 
 **2. Just a sec.**
 
@@ -37,12 +38,14 @@
 * have a sec
      
    * Do you have a sec?
+   
 
 **3. Get down here!**
 
    * Would you get down here and help me.
     
    * You better get down here as soon as you can.
+
 
 **4. Why are you guys yelling at us when we're way upstairs? Just text me.**
 
@@ -74,6 +77,7 @@
     
    * I'll text you the final score.
 
+
 **5. Alright, That's not gonna happen.**
 
 * ***alright*** -- (informal) all right
@@ -88,6 +92,7 @@
 
    * That's really not gonna happen. You know, I don't think I'm gonna have many children.
 
+
 **6. You're not wearing that outfit*** -- You can't wear that outfit. Go change!
     
    * Please tell me you're not wearing that to the funeral.
@@ -96,11 +101,13 @@
 
    * a wedding/cowboy/Superman outfit
 
+
 **7. do you have anything to say to your daughter...about her skirt?**
 
 * ***Do you have anything to say to sb about sth?***
 
    * Do you have anything to say that has anything to do with what I'm talking about?
+
 
 **8. it's way too short, people know you're a girl, you don't need to prove it to them.**
 
@@ -124,6 +131,7 @@
    
    * She was determined to prove to her parents that she could live on her own.
 
+
 **9. Luke got his head stuck in the banister again.**
 
 * ***got sth stuck in sth***
@@ -135,6 +143,7 @@
 * ***banister*** -- the posts and rail which you can hold for support when going up or down stairs
 
    * hold on to the banister
+
 
 **10. I... was out of control growing up. I just don't want my kids to make the same bad mistakes I made. If Haley never wakes up on a beach in Florida half naked. I've done my job.**
 
@@ -182,6 +191,7 @@
 
 * ***penalty*** -- n. a disadvantage given to a player or a teeam when they break a rule
 
+
 **12. Let’s take it down a notch.**
 
 * ***take it down a notch*** -- calm down, relax
@@ -191,6 +201,7 @@
 * ***notch*** -- n. a level on a scale, often marking quality or achievement
 
    * The quality of the food here has dropped a notch recently.
+
 
 **13. It’s the number one village in all Colombia for all the… what’s the word? Murders.**
 
@@ -210,6 +221,7 @@
 
    * murder weapon/victim
 
+
 **14. You’ve gotta take that kid out! You wanna take him out? How about I take you out?**
 
 * ***gotta*** -- got to
@@ -224,6 +236,7 @@
 
    * How about we go for a meal?
 
+
 **15. Why don’t you worry about your son? He spent the first half with his hand in his pants!**
 
 * ***Why don't you do sth?***
@@ -235,6 +248,7 @@
    * the first/second half
 
       * No goals were scored in the first half.
+
 
 **16. I’ve wanted to tell her off for the last six weeks.**
 
@@ -250,6 +264,7 @@
 
    * My dad told me off for swearing / getting home late.
 
+
 **17. Don’t be fooled by the, uh… Give me a second here.**
 
 * ***Don't be fooled by sth***
@@ -260,6 +275,7 @@
 
 ----------------
 
+
 **18. she’s adorable! Hi, precious!**
 
 * ***adorable*** -- adj. very attractive and easy to feel love for
@@ -269,6 +285,7 @@
 * ***precious*** - adj. used to speak to sb you love, especially a baby or small child
 
    * Come sit by me, precious.
+
 
 **19. We just- we just adopted her from Vietnam and… we’re bringing her home for the first time, huh.**
 
@@ -284,11 +301,13 @@
 
    * For the first time in his life he felt truly happy.
 
+
 **20. You and your wife must be so **thrilled**.
 
 * ***thrilled*** -- adj. very excited and pleased
    
    * He was thrilled at the prospect of seeing them again.
+
 
 **21. so we had initially asked one of our lesbian friends to be a surrogate, but-Then we figured they’re already mean enough; can you imagine one of them pregnant?**
 
@@ -310,6 +329,7 @@
 
    * I can imagine him really angry.
 
+
 **22. Everybody fawning over Lily, and then you walk on and suddenly it’s all “Oooh, SkyMall, I gotta buy a motorized tie rack.” Alright, you know, I’m- I’m gonna give a speech.**
 
 * ***fawn on/over sb*** -- try to please sb by praising them or paying them too much attention
@@ -324,6 +344,7 @@
 
    * Each child had to give a short speech to the rest of the class.
 
+
 **23. You’re gonna be stuck with these people for the next five hours.**
 
 * **be stuck with sb** -- have to spend time with sb or have a relationship with them even though you do not want to
@@ -332,6 +353,7 @@
 
    * I was stuck with him for the whole journey.
 
+
 **24. Honey, honey, look at those babies with those cream puffs.**
 
 * ***cream puff*** 
@@ -339,6 +361,7 @@
    1. a small light cake that is empty inside and can be filled with whipped cream; 
    
    2. a person who is very easy to control, not strong or brave
+
 
 **25. Excuse me, but this baby would’ve grown up in a crowded orphanage if it wasn’t for us cream puffs. And you know what? No, to all of you who judge--hear this: love knows no race, creed--or gender. And shame on you, you small-minded, ignorant few-**
 
@@ -362,6 +385,7 @@
 
    * an ignorant person/question 
 
+
 **26. We would like to **pay for everyone’s headsets.**
 
 * ***pay for sth***
@@ -382,17 +406,20 @@
    
    * She tried to crawl through the window, but she got stuck.
 
+
 **28. I thought I could get out this time.**
 
 * ***I thought I could do sth***
 
    * I thought we could go out tonight.
 
+
 **29. I’m just gonna say it: he needs to be checked by a specialist.**
 
 * ***specialist*** -- a doctor who knows more about one particular type of illness or treatment than other doctors
 
    * a heart/cancer specialist
+
 
 **30. There. Be free, Excalibur.**
 
@@ -404,17 +431,20 @@
 
    * Ned would be free to go home.
 
+
 **31. I’m having a friend over today.**
 
 * ***have sb over*** -- invite sb to come to your home to have a meal or to spend time with you
 
    * My father is having some colleagues over from the University tonight.
 
+
 **32. Easy, easy…**
 
 * ***easy*** -- adv. used to tell sb to be careful when doing sth
 
    * Easy with that chair - one of its legs is loose.
+
 
 **33. Fight in the sun; it’ll be a nice change. I’m kidding.**
 
@@ -433,7 +463,8 @@
    * ***No kidding?/Are you Kidding (me)?***
    
    * ***You're kidding (me)/You must be kidding.***
- 
+
+
 **34. I might as well just tell him not to come because you guys are just going to embarrass me again.**
 
 * ***may/might (just) as well do sth*** -- do sth because it seems best in the situation that you are in, although you may not really want to do it
@@ -443,6 +474,7 @@
 * ***embarrass*** -- v. make sb feel ashamed, nervous, or uncomfortable, especially in front of other people
 
    * He didn't want to embarrass her by asking questions.
+
 
 **35. Sweety, hang on a second. You’re fifteen and it’s the first time you’ve had a boy over. I mean, I’m bound to be a little surprised, but… not embarrass you.**
 
@@ -455,6 +487,7 @@
 * ***be bound to do/be sth*** -- certain or likely to happen, or to do or be sth
    
    * You've done so much work - you're bound to pass the exam.
+
 
 **36. I better go charge the camcorder.**
 
@@ -472,6 +505,7 @@
 
 * ***camcorder*** -- n. a video camera that records pictures and sound and that can be carried around
 
+
 **37. I’m the cool dad. That’s my thing. I’m hip, I surf the web, I text. LOL: laugh out loud, OMG: oh my god, WTF: why the face?**
 
 * ***That's my thing.*** -- That's my style.
@@ -482,6 +516,7 @@
 
    * I was surfing the Net looking for information on Indian music.
 
+
 **38. I didn’t mean to! It was an accident.**
 
    * I'm sorry I hurt you. I didn't mean to.
@@ -489,6 +524,7 @@
    * I didn't mean to break it - it was an accident.
 
 **39. Language!**
+
 
 **40. What did I tell you would happen if you got him a gun? Deal with this.**
 
@@ -500,9 +536,11 @@
 
    * Don't worry. I will deal with this.
 
+
 **41. Buddy, uncool.**
 
 * ***uncool*** -- adj. not fashionable or acceptable – used especially by young people;
+
 
 **42. The agreement was that if he shoots someone, you shoot him.**
 
@@ -512,17 +550,18 @@
    
       * Our agreement was that you would pay by the first of the month.
 
+
 **43. Yes we were serious about that, and now you have to follow through.**
 
 * **be serious about ...**
 
 * ***follow through*** -- do what needs to be done to complete sth or make it successful
 
-   * The project went wrong when the staff failed to follow through.
+* The project went wrong when the staff failed to follow through.
 
-**44. Liar**.
 
-* ***liar*** -- n. a person who tells lies
+**44. Liar** -- n. a person who tells lies
+
 
 **45. He’s got a birthday party.
 
@@ -530,7 +569,9 @@
 
    * He's got three children.
 
+
 **46. What’s more important here, dad?
+
 
 **47. You can shoot him afterwards. He’ll be home at two.**
 
@@ -538,17 +579,20 @@
 
    * Let's go out now and eat afterwards.
 
+
 **48. No, he’s got a soccer game at three and then oh, we’ve gotta leave for that dinner thing at five.**
 
 * ***leave for*** 
 
    * I'm leaving for Paris on Tuesday.
 
+
 **49. I guess that works for me.**
 
 * ***work for sb*** -- used for saying that you agree with a plan or like a particular idea
 
    * I meditate and do Yoga every day. It works for me and I think it could work for you too.
+
 
 **50. Sorry, buddy. It’s on the calendar.**
 
@@ -564,6 +608,7 @@
 
    * quit smoking/drinking/laught at/complaining
 
+
 **52. You would’ve stopped the goal if you weren’t staring at the little girl.**
 
 * ***stop the goal*** -- stop sb else to score the goal
@@ -572,15 +617,18 @@
 
    * He lifted his head and stared at her.
 
+
 **53. You know, Gloria, that little blow-up with that other mom– why do you have to do things like that?**
 
 * ***blow-up*** -- n. an occasion when sb suddenly becomes angry
 
 * ***Why do you have to do things like that?***
 
+
 **54. I’m just saying you could take it down here a little bit, that’s all.**
 
 * ***take it down here a little bit***
+
 
 **55. B-but you don’t have to be so emotional all the time.That’s all I’m saying. Manny, you’re with me on this one, right?**
 
@@ -596,15 +644,18 @@
 
    * We're all with you on this one.
 
+
 **56. Oh, for god’s sake.**
 
 * ***for God's/Christ's/goodness'/heaven's/pity's etc sake*** -- used to show that you are angry or annoyed
 
    * What is it now, for God's sake?
 
+
 **57. Watch it.** -- used to telling sb to be careful or threatening sb
 
    * Watch it, there's a car.
+
 
 **58. Seriously, not to be the evil stepdad, but if you put on a puffy white shirt and declare your love for a sixteen year old, you’re gonna be swinging from the flag pole in your puffy white underpants.**
 
@@ -616,17 +667,20 @@
 
    * To declare your love to one another to the world.
 
+
 **59. You hurt his feelings.**
 
 * ***hurt one's feelings***
 
    * I didn't mean to hurt your feelings.
 
+
 **60. Oh, well, if it toughens him up a little bit, then… geez, he’s picking flowers.**
 
 * ***toughen sb up*** -- make sb stronger and more able to deal with difficult situations 
 
    * He thinks boxing is good for kids, that it toughens them up.
+
 
 **61. Manny’s very passionate. Just like his father. My first husband, he’s very handsome but too crazy. It seemed like all we did was fight and make love, fight and make love, fight and make love.**
 
@@ -664,6 +718,7 @@
 
    * ***half/fully awake***
 
+
 **63. What the hell is that supposed to mean?**
 
 * ***What/how/why/where etc the hell ... ?*** -- not polite used to show that you are very surprised or angry
@@ -677,6 +732,7 @@
    * What is that supposed to mean?
 
    * You were supposed to be here an hour ago!
+
 
 **64. I’ve gained a… few extra pounds while we were expecting the baby, which has been very difficult. But, apparently, your body does a nesting, very maternal, primal thing where it retain nutrients… some sort of molecular physiology thing. But that’s science. You can’t… you can’t fight it, so…**
 
@@ -720,6 +776,7 @@
 
 * ***physiology*** -- n. the scientific study of the normal functions of living things
 
+
 **65. Okay, well, that’s reassuring, right, Lily? Yes, we tore you away from everything you know, but don’t worry – things are normal here.**
 
 * ***reassuring*** -- adj. making you feel less worried or uncertain about sth
@@ -734,6 +791,7 @@
 
    * Dinner is ready, if you can tear yourself away from the TV.
 
+
 **66. Even Pepper pointed it out on the way home from the airport.**
 
 * ***point sth out*** -- tell someone something that they did not already know or had not thought about
@@ -744,6 +802,7 @@
 
    * Guess who I bumped into on the way home.
 
+
 **67. Yeah, and I don’t blame you. I know your family: you tell them, they say something judgmental.**
 
 * ***blame sb (for sth)***
@@ -751,6 +810,7 @@
    * She doesn't blame anyone for her father's death.
 
 * ***judgmental*** -- adj. judging people and criticizing them too quickly
+
 
 **68. I know, and then something that’s supposed to be nothing but joyful suddenly turns into this huge fight.**
 
@@ -762,15 +822,18 @@
 
 * ***joyful*** -- adj. very happy; causing people to be happy
 
+
 **69. I’m so relieved you understand.**
 
 * ***relieved*** -- adj. feeling happy because you are no longer worried about sth
+
 
 **70. I invited them over for dinner tonight.**
 
 * ***invite sb over/round/around*** -- ask sb to come to your home, usually for a drink or a meal
 
    * We had them over for dinner a couple of times, but they never invited us back.
+
 
 **71. This would’ve gone on forever. You’re an avoider.**
 
@@ -780,13 +843,14 @@
 
 * ***avoider*** -- a person likes to avoide sth
 
+
 **72. And you do have avoidance issues; even Langina said so.**
 
 * ***avoidance*** -- n. not doing sth; preventing sth from existing or happening
 
 * ***issue*** -- n. a problem or worry that sb has with sth
 
-----------
+---------------------------
 
 **73. Don’t answer it; I’ll get it!**
 
@@ -806,9 +870,11 @@
 
    * The phone's ringing. Do you want me to get it?
 
+
 **74. I’m a senior.**
 
 * ***senior*** -- a student in the last year at a high school
+
 
 **75. Phil, sweety, honey… he is Dylan and he is a senior… (whispers) and you need to scare him.
 
@@ -818,723 +884,523 @@
 
    * It scared me to think I was alone in the building.
 
+
 **76. Let me meet this playa.**
 
 * ***playa*** -- n. a man who is good at meeting women and persuading them to have sex with him
 
-Phil: It’s like that. You just- you just **stare down** on them and let the eyes do the work. Your mouth might be saying, “Hey, we cool,” but your eyes are like, “No, we not.” (points to mouth) “Nice to meet you.” (points to eyes) “No, it’s not.” (points to mouth) “S’all good.” (points to eyes) “S’all (mumbles) isisn’t.”
 
-> * ***stare down/out*** -- look at someone for so long that they start to feel uncomfortable and look away
->
->    * But Jobs stared him down, and he agreed to take delivery and pay.
+**77. You just- you just stare down on them and let the eyes do the work.**
 
-(Cut back to scene)
+* ***stare down/out*** -- look at someone for so long that they start to feel uncomfortable and look away
 
-Phil: Yo.
+   * But Jobs stared him down, and he agreed to take delivery and pay.
 
-Dylan: Yo.
 
-Hayley: Okay, I see you guys have-
+**78. You two… you two keep it real, know what I mean, son?**
 
-Phil: Wait, wait, wait! You two… you two **keep it real**, **know what I mean**, son?
+* ***keep it real*** -- behave in an honest way and not pretend to be different from how you really are
 
-> * ***keep it real*** -- behave in an honest way and not pretend to be different from how you really are
->
->    * Well, I think we always keep it real, and there's really no real situations.
+   * Well, I think we always keep it real, and there's really no real situations.
 
-> * ***(you) know/see what I mean?***
+* ***(you) know/see what I mean?***
 
-Dylan: Not really.
 
-Hayley: Please stop.
+**79. I slipped on the baby oil.**
 
-Phil: That’s cool. (hand slips off stair rail) Ow! Oh god, that’s my back!
+* ***slip on the ice / wet door***
 
-Claire: Sweetheart…
+   * She slipped on the icy sidewalk and grabbed Will's arm to steady herself.
 
-Phil: Ow! Oh, I **slipped on** the baby oil.
 
-> * ***slip on the ice / wet door***
->
->    * She slipped on the icy sidewalk and grabbed Will's arm to steady herself.
+**80. where’re you from originally? I could defeat you if it came to a physical confrontation.**
 
-(Commentary)
+* ***originally*** -- adv. in the beginning, before other things happened or before things changed
 
-Phil: (points to mouth) “Oh, **where’re you from originally?**” (points to eye) “**I could defeat you if it came to a physical confrontation.**”
+   * Where are you from originally?
 
-> * ***originally*** -- adv. in the beginning, before other things happened or before things changed
->
->    * Where are you from originally?
->
->    * The family originally came from France.
+   * The family originally came from France.
 
-> * ***defeat sb*** -- win against sb in a game, fight, or election
->
->    * He defeated the champion in three sets.
+* ***defeat sb*** -- win against sb in a game, fight, or election
 
-> * ***if it comes to sth*** -- reach a particular state or point , especially one that is bad or unpleasant
->
->    * If it comes to a choice between saving people's lives and revealing who I really am, there is no choice.
->
->    * If it comes to that, he should ditch the pact.
+   * He defeated the champion in three sets.
 
-> * ***physical confrontation***
-> 
-> * ***physical*** -- adj. relating to your body rather than your mind
->
-> * ***confrontation*** -- n. a fight or battle
+* ***if it comes to sth*** -- reach a particular state or point , especially one that is bad or unpleasant
 
-(Cut back to scene)
+   * If it comes to a choice between saving people's lives and revealing who I really am, there is no choice.
 
-Phil: (being carried by Dylan) Ow, ow, ow, ow.
+   * If it comes to that, he should ditch the pact.
 
-Claire: I don’t know about this. Should I **call a doctor**?
+* ***physical confrontation***
 
-> * ***call a doctor/the fire department/the police/an ambulance/a taxi*** -- ask sb/sth to come quickly to a particular place by telephoning
+   * ***physical*** -- adj. relating to your body rather than your mind
 
-Phil: No, no, no, no, no. You’re very strong, homes.
+   * ***confrontation*** -- n. a fight or battle
 
-Dylan: Thanks. (places Phil on couch)
 
-Phil: Okay, nice. Nice **soft landing**.
+**80. Should I call a doctor?**
 
-> * ***soft landing*** -- come down onto the ground gently and without any damage
+* ***call a doctor/the fire department/the police/an ambulance/a taxi*** -- ask sb/sth to come quickly to a particular place by telephoning
 
-Dylan: **There you go**.
 
-> * ***there you are/go***
+**81. Nice soft landing.**
 
-Hayley: Okay, let’s go. (she and Dylan leave)
+* ***soft landing*** -- come down onto the ground gently and without any damage
 
-Phil: I am **on my side**, though, so just **flip** me **right** back and we’re good. We’ll be good. I just need to get flipped right on my back, and we should be fine, so…
 
-> * ***on one's side/back/front*** 
->
->    * He was lying on his side.
->
->    * Do you sleep on your back or your front?
+**82. There you go.**
 
-> * ***flip*** -- v. move sth with a quick sudden movement so that it is in a different position
->
->    * You’ re supposed to flip a new mattress regularly.
+* ***there you are/go***
 
-> * ***right*** -- adv. exactly in a particular position or place
->
->    * She was standing right in the middle of the room.
->
->    * There's the house, right in front of you.
+
+**83. I am on my side, though, so just flip me right back and we’re good.**
+
+* ***on one's side/back/front*** 
+
+   * He was lying on his side.
+
+   * Do you sleep on your back or your front?
+
+* ***flip*** -- v. move sth with a quick sudden movement so that it is in a different position
+
+   * You’ re supposed to flip a new mattress regularly.
+
+* ***right*** -- adv. exactly in a particular position or place
+
+   * She was standing right in the middle of the room.
+
+   * There's the house, right in front of you.
 
 ------------
 
+**84. I put my thoughts into words, and now my words into action.**
+
+* ***put (sth) into sth*** -- express or state sth in a particular way 
+
+   * She had never tried to put this feeling into words.
+
+   * It's difficult to **put into words** how I feel about what happened.
+
+   * Can you help me put this letter into good English, Please?
+   
+
+**85. I’ll give you fifty bucks not to do this**.
+
+* ***give sb sth (not) to do sth***
+
+   * These meetings give everyone a chance to express their opinions.
+
+* ***buck*** -- a US, Canadian, or Australian dollar
 
 
-Manny: (holding note and flowers) Brenda Feldman.
+**86. What am I gonna do with money?**
 
-Gloria: What is that?
+* ***do with sth*** -- used to ask or talk about how sb should deal with sth
 
-Manny: A poem I’ve written for Brenda Feldman.
+   * What shall I do with these papers?
 
-Jay: Of course it is.
+   * I wouldn't know what to do with a newborn baby.
 
-Manny: I **put my thoughts into words**, and now my words into action.
 
-> * ***put (sth) into sth*** -- express or state sth in a particular way 
->
->    * She had never tried to put this feeling into words.
->
->    * It's difficult to **put into words** how I feel about what happened.
->
->    * Can you help me put this letter into good English, Please?
+**87. He’s like a bull fighter.**
 
-Jay: Hey, **I’ll give you fifty bucks not to do this**.
+* ***bull fighter*** -- the person who tries to injure or kill the bull in a bullfight
 
-> * ***give sb sth (not) to do sth***
->
->    * These meetings give everyone a chance to express their opinions.
 
-> * ***buck*** -- a US, Canadian, or Australian dollar
+**88. You’re in such a bad mood, and I know why. It’s because that man thought you were my father.**
 
-Manny: I’m eleven years old. **What am I gonna do with money?**
+* ***in a good/bad/foul/confident/optimistic/holiday/party/festive mood***
 
-> * ***do with sth*** -- used to ask or talk about how sb should deal with sth
->
->    * What shall I do with these papers?
->
->    * I wouldn't know what to do with a newborn baby.
 
-Jay: What are you gonna do with a sixteen-year-old? (Manny walks off)
+**89. Let’s get you, like, some… younger clothes.**
 
-Gloria: He’s like a **bull fighter**.
+* ***get sb sth*** -- buy sth
 
-> * ***bull fighter*** -- the person who tries to injure or kill the bull in a bullfight
+   * While you're out, could you get me some batteries?
 
-Jay: Mhhh. You ever see a bull fight? I can’t watch this.
+   * For his birthday this year, I got my dad a sweater.
 
-Gloria: You’re **in such a bad mood**, and I know why. It’s because that man thought you were my father.
 
-> * ***in a good/bad/foul/confident/optimistic/holiday/party/festive mood***
+**90. I don’t care what some jackass in a pair of ripped jeans thinks about me.**
 
-Jay: Nooo.
+* ***jackass*** -- n. a stupid person
 
-Gloria: Yeees.
+* ***I don't care what/whether, etc. ...***
 
-Jay: Nooo.
+   * I don't care what he thinks.
 
-Gloria: When you say no like that, it’s always yes. Come on, we’re in the mall. Let’s **get you, like, some… younger clothes**. There’s a store there, but I-
+* ***rip*** -- v. tear sth or be torn quickly and violently
 
-> * ***get sb sth*** -- buy sth
->
->    * While you're out, could you get me some batteries?
->
->    * For his birthday this year, I got my dad a sweater.
+   * I ripped my jeans on the fence.
 
-Jay: I don’t need any younger clothes. And **I don’t care what some jackass in a pair of ripped jeans thinks about me**.
 
-> * ***jackass*** -- n. a stupid person
+**91. So stop being a gloomy goose and stop being so hard on Manny.**
 
-> * ***I don't care what/whether, etc. ...***
->
->    * I don't care what he thinks.
+* ***gloomy goose*** -- a sad person
 
-> * ***rip*** -- v. tear sth or be torn quickly and violently
->
->    * I ripped my jeans on the fence.
+* ***be hard on sb*** -- treat or criticize sb in a very severe or strict way
 
-Gloria: Good. You shouldn’t. You should only care what I think. I love you and I don’t care how old you are. So stop being a **gloomy goose** and stop **being so hard on** Manny.
+   * Don't be too hard on him - he's very young.
 
-> * ***gloomy goose*** -- a sad person
 
-> * ***be hard on sb*** -- treat or criticize sb in a very severe or strict way
->
->    * Don't be too hard on him - he's very young.
+**92. The only reason I’m hard on Manny is just because I don’t wanna see him make a fool of himself. And I can smell that hair goo of his from here.**
 
-Jay: **The only reason I’m hard on Manny is just because I don’t wanna see him make a fool of himself.** And I can smell that **hair goo** of his from here. 
+* ***reason (that) ... is because ...***
 
-> * ***reason (that) ... is because ...***
->
->    * The reason I'm there and the reason I'm feeling sexy is because I'm empowering myself.
+   * The reason I'm there and the reason I'm feeling sexy is because I'm empowering myself.
 
-> * ***make a fool of yourself*** -- do sth stupid which makes other people think that you are a fool
->
->    * I made a complete fool of myself in front of everyone!
+* ***make a fool of yourself*** -- do sth stupid which makes other people think that you are a fool
 
-> * ***hair goo*** -- hair gel
+   * I made a complete fool of myself in front of everyone!
 
-Gloria: I don’t know what’s gonna **happen to him** over there. But you’re his family now, and that means only one thing: you be the wing in his back, not the spit in his face.
+* ***hair goo*** -- hair gel
 
-> * ***something/anything/what happens to sb/sth*** 
->
->    * He should be here by now - something must have happened to him.
 
-> * ***spit*** -- n. the watery liquid that is produced in your mouth
+**93. I don’t know what’s gonna happen to him over there. But you’re his family now, and that means only one thing: you be the wing in his back, not the spit in his face.**
 
-Jay: …What?
+* ***something/anything/what happens to sb/sth*** 
 
-Gloria: Something my mom always says. It’s gorgeous in Spanish. Look, he’s there.
+   * He should be here by now - something must have happened to him.
 
-> * ***gorgeous*** -- adj. very beautiful and attractive; giving pleasure and enjoyment 
+* ***spit*** -- n. the watery liquid that is produced in your mouth
 
-Manny: She has a boyfriend.
 
-Gloria: Aw, I’m sorry, mi niño.
+**94. It’s gorgeous in Spanish.**
 
-Manny: I gave her my heart; she gave me a picture of me as an **all-time sheriff**.
+* ***gorgeous*** -- adj. very beautiful and attractive; giving pleasure and enjoyment 
 
-> * ***all-time*** -- adj. used when you compare things to say that one of them is the best, worst etc that there has ever been
 
-> * ***sheriff*** -- n. the most senior police officer in a country
+**95. I gave her my heart; she gave me a picture of me as an all-time sheriff.**
 
-Gloria: Aw.
+* ***all-time*** -- adj. used when you compare things to say that one of them is the best, worst etc that there has ever been
 
-Manny: **That was pretty stupid of me**, wasn’t it?
+* ***sheriff*** -- n. the most senior police officer in a country
 
-> * ***It/That was stupid of me (to do sth)***
->
->    * It was stupid of me to lose my temper.
 
-Gloria: No, mi amor. It was brave, right, Jay? Brave.
 
-Jay: Oh, well, you’ll know better next time. Let’s get a **pretzel**. (walks off)
+**96. That was pretty stupid of me, wasn’t it?**
 
-> * ***pretzel*** -- n. a hard salty type of bread baked in the shape of a stick or a loose knot
+* ***It/That was stupid of me (to do sth)***
 
-Gloria: (says something in Spanish; she and Manny follow suit)
+   * It was stupid of me to lose my temper.
 
-Officer: (to Jay) Oh, excuse me, sir. We ask that all mall walkers stay **to the right**. (bunch of old walkers in tracksuits similar to Jay’s walk past)
 
-> * ***to/on the right (of sth)***
->
->    * Make sure you know, for instance, if you need to stay to the right and pass on the left. 
+**97. Let’s get a pretzel.**
 
-Jay: (sees them; enters store selling hip clothes)
+* ***pretzel*** -- n. a hard salty type of bread baked in the shape of a stick or a loose knot
+
+
+**98. We ask that all mall walkers stay to the right.**
+
+* ***to/on the right (of sth)***
+
+   * Make sure you know, for instance, if you need to stay to the right and pass on the left. 
 
 -------------
 
+**99. leave your sister alone**
 
+* ***leave/let sb alone*** -- stop annoying sb or trying to get their attention
 
-(Inside)
+   * Leave the boy alone, he can make up his own mind.
+   
 
-Hayley: Alex, get out! Mom!
+**100. you need to respect their privacy.**
 
-Claire: Alex, **leave your sister alone**.
+* ***respect one's privacy***
 
-> * ***leave/let sb alone*** -- stop annoying sb or trying to get their attention
->
->    * Leave the boy alone, he can make up his own mind.
+   * I would like you to respect my privacy.
 
-Alex: I was just getting my book, gosh.
 
-Claire: I know, sweety, but you need to **respect their privacy**. What are they doing up there?
+**101. Do you wanna help me with the frosting?**
 
-> * ***respect one's privacy***
->
->    * I would like you to respect my privacy.
+* ***help sb with sth***
 
-Alex: Nothing. Lying on the bed watching a movie.
+   * Jo will help us with some of the organization.
 
-Claire: …Okay. Okay. Um, I’m making a cake for tonight. **Do you wanna help me with the frosting**?
+* ***frosting*** -- n. a sweet substance put on cakes and made from powdery sugar and butter
 
-> * ***help sb with sth***
->
->    * Jo will help us with some of the organization.
 
-> * ***frosting*** -- n. a sweet substance put on cakes and made from powdery sugar and butter
+**102. So, you know, if Hayley got pregnant, would you ever pretend she has mono for a few months, and then, like, tell everyone the baby is yours?**
 
-Alex: Sure. So, you know, if Hayley **got pregnant**, would you ever **pretend** she has **mono** for a few months, and then, like, tell everyone the baby is yours?
+* ***get/become pregnant***
 
-> * ***get/become pregnant***
->
->    * She's been trying to get pregnant for a year now.
+   * She's been trying to get pregnant for a year now.
 
-> * ***pretend (that) ...*** -- v. 
->
->    * We pretendde nothing had happened.
+* ***pretend (that) ...*** -- v. 
 
-> * ***mono*** -- n. mononucleosis, a disease which causes swollen glands, fever, and a sore throat.
+   * We pretendde nothing had happened.
 
-Claire: …What?
+* ***mono*** -- n. mononucleosis, a disease which causes swollen glands, fever, and a sore throat.
 
-Alex: The senior at school **was out sick** for, like, four months, but… then a week later, she was **breastfeeding** at the corner of a **carwash**.
 
-> * ***be out/off sick*** -- be away from work or school because you are ill
->
->    * I was off sick for four days with the flu.
+**103. The senior at school was out sick for, like, four months, but… then a week later, she was breastfeeding at the corner of a carwash.**
 
-> * ***breastfeed*** -- v. feed a baby with milk from your breasts rather than bottle-feeding it
->
->    * Not all women have the choice whether or not to breast-feed their babies.
+* ***be out/off sick*** -- be away from work or school because you are ill
 
-> * ***carwash*** -- n. a place where there is special equipment for washing cars
+   * I was off sick for four days with the flu.
 
-(Outside)
+* ***breastfeed*** -- v. feed a baby with milk from your breasts rather than bottle-feeding it
 
-Phil: Buddy… what are you wearing?
+   * Not all women have the choice whether or not to breast-feed their babies.
 
-Luke: (wearing multiple layers of clothing) Nothing.
+* ***carwash*** -- n. a place where there is special equipment for washing cars
 
-Phil: Uh uh. No jacket, one hat. How many pairs of underwear do you have on?
 
-Luke: One… ugh, six.
+**104. And I know you like to make trouble for your sister, but it’s not gonna work this time.**
 
-(Inside)
+* ***make/cause trouble for sb/sth***
 
-Alex: First of all, it would be really cool to see Hayley that fat, and how awesome would it be to have a fake little brother who’s really my nephew.
+  * I'm not gonna make trouble for you or anybody else.
 
-Claire: Hayley is not getting pregnant.
 
-Alex: Just saying if.
+**105. I’m not enjoying this, but this is an important lesson that you’re learning, so soak it, keep it.** 
 
-Claire: I know. And I know you like to **make trouble for your sister**, but it’s not gonna work this time. You know why? ‘Cause your sister is a good girl. I know; I was just like her when I was… (walks off)
+* ***teach sb a lesson*** -- punish sb
 
-> * ***make/cause trouble for sb/sth***
->
->   * I'm not gonna make trouble for you or anybody else.
+   * The accident taught me a lesson I'll never forget.
 
-(Outside)
+* ***learn a lesson***
 
-Phil: I want you to know: **I’m not enjoying this, but this is an important lesson that you’re learning, so soak it, keep it.** (aims BB gun at Luke)
+   * The government has failed to learn the lessons of history .
 
-> * ***teach sb a lesson*** -- punish sb
->
->    * The accident taught me a lesson I'll never forget.
->
-> * ***learn a lesson***
->
->    * The government has failed to learn the lessons of history .
->
-> * ***let that be a lesson to you***
->
->    * Let that be a lesson to you not to play with matches!
->
-> * ***This is an important lesson ...***
->
->    * This is an important lesson for us:we can solve a problem(problem), bylearning to forget.
+* ***let that be a lesson to you***
 
-Luke: You’re too close. It’s gonna hurt.
+   * Let that be a lesson to you not to play with matches!
 
-Phil: **It’s supposed to hurt.**
+* ***This is an important lesson ...***
 
-> * ***be supposed to do/be sth***
->
->    * It's supposed to go the other direction.
+   * This is an important lesson for us:we can solve a problem(problem), bylearning to forget.
 
-Luke: And why are you smiling?
 
-Phil: I’m… what?
+**106. It’s supposed to hurt.**
 
-(Inside)
+* ***be supposed to do/be sth***
 
-Claire: (climbs stairs and stands outside Hayley’s room)
+   * It's supposed to go the other direction.
+   
 
-(Outside)
+**107. Oh, forget it. I can’t do this. The point is you’re scared.**
 
-Phil: Oh, **forget it**. I can’t do this. **The point is you’re scared.** I think you’ve learned your lesson- (BB gun goes off) Wow.
+* ***forget it*** -- used to tell someone that something is not important and they do not need to worry about it
 
-> * ***forget it*** -- used to tell someone that something is not important and they do not need to worry about it
->
->    * ‘I still owe you for lunch yesterday.’ ‘Forget it.’
+   * ‘I still owe you for lunch yesterday.’ ‘Forget it.’
 
-> * ***the point is (that) ...***
->
->    * The point is you shouldn't have to wait so long to see a doctor.
+* ***the point is (that) ...***
 
-Luke: Ow!
+   * The point is you shouldn't have to wait so long to see a doctor.
 
-(Inside)
 
-Claire: (enters Hayley’s room)
+**108. I was just, um, dropping off some laundry. Is this a bad time?**
 
-Hayley: Mom? What are you doing?
+* ***drop off*** -- take sth to a place and leave them there on your way to another place
 
-Claire: Oh, hey. I was just, um, **dropping off some laundry**. **Is this a bad time?**
+   * I'll drop you off on my way home.
 
-> * ***drop off*** -- take sth to a place and leave them there on your way to another place
->
->    * I'll drop you off on my way home.
+* ***laundry*** - n. clothes, sheets etc that need to be washed or have just been washed
 
-> * ***laundry*** - n. clothes, sheets etc that need to be washed or have just been washed
->
->    * do the laundry = wash clothes
->
->    * clean/dirty laundry
+   * do the laundry = wash clothes
 
-> * ***a bad time*** -- not a good time
->
->    * I really would like to come, but I'm afraid this is a bad time.
+   * clean/dirty laundry
 
-Hayley: Yeah.
+* ***a bad time*** -- not a good time
 
-Claire: Oh. Okay. (leaves)
+   * I really would like to come, but I'm afraid this is a bad time.
 
-Hayley: Can you **shut the door**, please?
 
-> * ***shut*** -- v. close
->
->    * shut the door/window/suitcase/eyes/book
+**109. Can you shut the door, please?**
 
-Claire: Actually, we’re just gonna **go ahead and leave that open**.
+* ***shut*** -- v. close
 
-> * ***go ahead and do sth*** 
->
->    * Go ahead and eat before everything gets cold.
->
->    * I went ahead and arranged the trip anyway.
+   * shut the door/window/suitcase/eyes/book
 
-> * ***leave sb/sth adj.*** -- make sb/sth to remain in a particular condition, place, etc.
->
->    * leave the door open
 
-Hayley: Why?
+**110. Actually, we’re just gonna go ahead and leave that open.**
 
-Claire: Because I have, uh, seen this little show before, lying on the bed with a tall senior. **One moment you’re just friends watching Falcon Crest, and the next you’re lying under the air hockey table with your bra in your pocket.**
+* ***go ahead and do sth*** 
 
-> * ***one moment ... the next ... / from one moment to the next*** -- used to say that a situation changes very suddenly, often in a way which you do not expect or cannot explain
->
->    * One moment she's kissing me, the next she doesn't want to see me again.
->
->    * You never know what's going to happen from one moment to the next.
+   * Go ahead and eat before everything gets cold.
 
-> * ***air hockey table***
+   * I went ahead and arranged the trip anyway.
 
-> * ***with*** -- used to show the way in which sb does sth
->
->    * Don't stand with your hands in your pockets.
+* ***leave sb/sth adj.*** -- make sb/sth to remain in a particular condition, place, etc.
 
-Dylan: Woah…
+   * leave the door open
 
-Hayley: Mom!
 
-(Outside)
+**111. One moment you’re just friends watching Falcon Crest, and the next you’re lying under the air hockey table with your bra in your pocket.**
 
-Luke: You hit my bone!
+* ***one moment ... the next ... / from one moment to the next*** -- used to say that a situation changes very suddenly, often in a way which you do not expect or cannot explain
 
-Phil: It was an accident!
+   * One moment she's kissing me, the next she doesn't want to see me again.
 
-Luke: I thought you were my friend!
+   * You never know what's going to happen from one moment to the next.
 
-Phil: I am your friend!
+* ***air hockey table***
 
-Hayley: Dad! Dad! Dad, you have got to talk to mom. She’s, like, completely **freaking out** and embarrassing me!
+* ***with*** -- used to show the way in which sb does sth
 
-> * ***freak out*** -- become very anxious, upset or afraid, or make someone very anxious, upset or afraid
->
->    * People just freaked out when they heard the news.
+   * Don't stand with your hands in your pockets.
 
-Phil: Well, honey, your mom isn’t always as cool about things as I- (BB gun goes off)
 
-Dylan: Ow!
+**112. She’s, like, completely freaking out and embarrassing me!**
 
-Phil: What is with this thing?! (drops gun; gets shot in the leg) Ow!
+* ***freak out*** -- become very anxious, upset or afraid, or make someone very anxious, upset or afraid
+
+   * People just freaked out when they heard the news.
 
 -------------
 
+**113. My dad… Uh, my dad still isn’t completely comfortable with… this. Um, he still does this thing – it’s been five years now – and he still does this thing where he announces himself before walking into any room we’re in, just to make sure he doesn’t ever have to see us kiss.**
+
+* ***be/feel comfortable with*** -- confident, relaxed, not worried or afraid
+
+   * He's more comfortable with computers than with people.
+
+* ***announce yourself/sb*** -- tell sb your name or sb else's name when you or they arrive at a place
+
+   * Would you announce the guests as they arrive?
+
+   * After announcing himself at the reception desk, James was led upstairs.
 
 
-(Commentary)
+**114. Would you get in the spirit of things? It’s a celebration.**
 
-Mitchell: My dad… Uh, my dad still isn’t completely **comfortable with**… this. Um, he still does this thing – it’s been five years now – and he still does this thing where he **announces himself** before walking into any room we’re in, just to make sure he doesn’t ever have to see us kiss.
+* ***get/enter in/into the spirit (of sth)*** -- take part in something with enthusiasm
 
-> * ***be/feel comfortable with*** -- confident, relaxed, not worried or afraid
->
->    * He's more comfortable with computers than with people.
+   * I'm sure my colleagues will want to enter into the spirit of the occasion!
 
-> * ***announce yourself/sb*** -- tell sb your name or sb else's name when you or they arrive at a place
->
->    * Would you announce the guests as they arrive?
->
->    * After announcing himself at the reception desk, James was led upstairs.
 
-Cameron: Wish my mother had that system. Remember?
+**115. I’m gonna go get Lily ready. And I want you to just come straight out with it.**
 
-Mitchell: Not now.
+* ***get sb/sth ready (for sth)***
 
-(Cut back to scene)
+   * I'm just getting the kids ready for school.
 
-Mitchell: I still can’t believe you did this to me.
+* ***come out with sth*** -- say sth, especially sth unusual or unexpected
 
-Cameron: Would you **get in the spirit of things**? It’s a celebration. (doorbell rings)
+   * You never know what the children are going to come out with.
 
-> * ***get/enter in/into the spirit (of sth)*** -- take part in something with enthusiasm
->
->    * I'm sure my colleagues will want to enter into the spirit of the occasion!
 
-Mitchell: Oh god.
 
-Cameron: Okay. I’m gonna go **get Lily ready**. And I want you to just **come straight out with it**.
+**116. May I take your multi-coloured coat and bejewelled cap?**
 
-> * ***get sb/sth ready (for sth)***
->
->    * I'm just getting the kids ready for school.
+* ***bejewelled*** -- adj. wearing jewels or decorated with jewels
 
-> * ***come out with sth*** -- say sth, especially sth unusual or unexpected
->
->    * You never know what the children are going to come out with.
 
-Mitchell: Alright.
+**117. we didn’t just go to Vietnam for pleasure. We, uh… kinda have some big news.**
 
-Cameron: Okay? You can do this. (opens arms) Sports guy chest bump.
+* ***for pleasure*** -- relaxing and enjoying yourself rather than working
 
-Mitchell: No.
+   * I never have time to read for pleasure.
 
-Cameron: Sports guy chest bump.
+* ***kinda*** -- kind of
 
-Mitchell: Cam.
 
-Cameron: (bumps Mitchell) Do it.
+**118. Oh god, if Cam comes out here with boobs, I’m leaving.**
 
-Mitchell: Alright, okay.
+* ***boob*** -- n. a women's breast
 
-Cameron: Go.
 
-Mitchell: Sorry. (takes deep breath; answers door) Hey!
+**119. Oh, don’t mind her. Hayley had her first boy over today and… Phil shot him.**
 
-Family: Hey!
+* ***don't mind sb*** -- used for telling someone to ignore someone else and continue with what they are doing
 
-Mitchell: How are you? (gets wine from Phil) Thank you.
+   * Don't mind her — she didn't mean what she said.
 
-Claire: Oh, don’t thank us. Open it; dad is coming right behind. (doorbell rings again)
 
-Jay: We’re here! Coming in!
+**120. Cam and I started feeling this longing you know, for something more like, uh… maybe a baby?**
 
-Mitchell: Don’t worry, dad. Nothing gay going on here. May I take your multi-coloured coat and **bejewelled** cap?
+* ***longing*** -- n. a strong feeling of wanting sth or sb
 
-> * ***bejewelled*** -- adj. wearing jewels or decorated with jewels
+   * a longing for home
 
-Jay: Yeah.
+   * She felt a longing to throw herself into his arms.
 
-Phil: Hey, Jay.
 
-Claire: Gloria, hi. How are you? Hi dad.
+**121. I-I-I think what dad is trying to say is that Mitchell, you’re a little uptight, kids bring chaos and you don’t handle it well.**
 
-Phil: Hi Gloria. How are you? Oh, beautiful dress.
+* ***uptight*** -- adj. behaving in an angry way because you are feeling nervous and worried
 
-Gloria: Oh, thank you. Feel.
+   * You have to learn to laugh instead of getting uptight about things.
 
-Phil: Okay. (starts feeling Gloria)
+* ***chaos*** -- n. a state of complete confusion and lack of order
 
-Claire: Phil. That’s how she says “Phil”. Not “feel”. “Phil”.
+   * bring/cause/create chaos
 
-Phil: Oh.
-
-Jay: So how was your trip?
-
-Mitchell: It was good. It was good, actually, but, um, about that… I… I have something that I need to tell you guys. Um… uh, we didn’t just go to Vietnam **for pleasure**. We, uh… **kinda** have some big news.
-
-> * ***for pleasure*** -- relaxing and enjoying yourself rather than working
->
->    * I never have time to read for pleasure.
-
-> * ***kinda*** -- kind of
-
-Jay: Oh god, if Cam comes out here with boobs, I’m leaving.
-
-> * ***boob*** -- n. a women's breast
-
-Claire: Dad…
-
-Hayley: I hope he didn’t embarrass you, mom.
-
-Claire: Oh, **don’t mind her**. Hayley had her first boy over today and… Phil shot him.
-
-> * ***don't mind sb*** -- used for telling someone to ignore someone else and continue with what they are doing
->
->    * Don't mind her — she didn't mean what she said.
-
-Mitchell: …Anyway. Um… so about a year ago, Cam and I started **feeling this longing you know, for something more like, uh… maybe a baby?**
-
-> * ***longing*** -- n. a strong feeling of wanting sth or sb
->
->    * a longing for home
->
->    * She felt a longing to throw herself into his arms.
-
-Jay: Oooh, that’s a bad idea.
-
-Mitchell: What do you mean “bad idea”?
-
-Jay: Well, kids need a mother. I mean, if you two guys are bored, get a dog.
-
-Mitchell: We’re not bored, dad.
-
-Gloria: I support you, Mitchell, even though you’re not my son.
-
-Claire: I-I-I think what dad is trying to say is that Mitchell, you’re a little **uptight**, kids bring **chaos** and you don’t handle it well.
-
-> * ***uptight*** -- adj. behaving in an angry way because you are feeling nervous and worried
->
->    * You have to learn to laugh instead of getting uptight about things.
-
-> * ***chaos*** -- n. a state of complete confusion and lack of order
->
-> * bring/cause/create chaos
-
-Mitchell: Oh, uh, that’s not what dad is saying; that’s what you’re saying and it’s **insulting** in a whole different way.
+**122. that’s not what dad is saying; that’s what you’re saying and it’s insulting in a whole different way.**
 
 > * ***insult*** -- v. say or do sth that offends sb
 >
 >    * I have never been so insulted in my life!
 
-Phil: Okay people, let’s all chillax.
+**123. Okay people, let’s all chillax.**
 
-> * ***chillax*** -- v. relax and stop feeling angry or nervous about sth
->
->    * Chillax, dude - I'm on your team.
+* ***chillax*** -- v. relax and stop feeling angry or nervous about sth
 
-Alex: Hey, where’s uncle Cameron?
+   * Chillax, dude - I'm on your team.
 
-Mitchell: Final- thank you. Thank you. Someone who’s not insulting me notices he’s not here.
 
-Jay: Aaah, so that’s the big announcement, huh? You two **broke up**. Well, a baby wasn’t gonna help that anyway. And you know, let me tell you: you’re a lot **better off** because he was a bit of a **drama queen**.
+**124. You two broke up. Well, a baby wasn’t gonna help that anyway. And you know, let me tell you: you’re a lot better off because he was a bit of a drama queen.**
 
-> * ***break up*** - end a relationship
->
->    * The marriage broke up just a few years later.
+* ***break up*** - end a relationship
 
-> * ***be better off (doing sth)*** -- in a better situation
->
->    * The weather was so bad we'd have been better off staying at home.
+   * The marriage broke up just a few years later.
 
-> * ***drama queen*** -- a person who behaves as if a small problem or event is more important or serious than it really is
+* ***be better off (doing sth)*** -- in a better situation
 
-Mitchell: Okay, no, no, no, stop! You come into my house and you insult me and my boyfriend who, by the way, is not that dramatic and- (“Circle of Life” starts playing; lights dim) Oh god… (Cameron enters carrying Lily; holds her up as spotlight shines on her) We adopted a baby. Her name is Lily.
+   * The weather was so bad we'd have been better off staying at home.
 
-Cameron: Isn’t it exciting?
+* ***drama queen*** -- a person who behaves as if a small problem or event is more important or serious than it really is
 
-Mitchell: Just **turn it off**.
 
-> * ***turn off*** -- make a machine such as television, engine, light etc stop operating by pushing a button, turning a key etc
->
->    * Don't forget to turn the lights off when you leave.
+**125. Just turn it off.**
 
-Cameron: I can’t turn it off; it’s who I am.
+* ***turn off*** -- make a machine such as television, engine, light etc stop operating by pushing a button, turning a key etc
 
-Mitchell: The music.
+   * Don't forget to turn the lights off when you leave.
 
-Cameron: Oh, yes, the music. (turns it off) Come say hi to Lily! (Family fawns over Lily; Jay stands from afar)
 
-Phil: Lily. Isn’t that gonna be hard for her to say?
+**126. I mean, it’s not like I wrote the book on fatherhood. I’ve been trying all my life to get it right; I’m still screwing up.**
 
-Jay: Um, excuse me. Okay, I-I know that I said I thought this was a bad idea, but, uh… what do I know? I mean, it’s not like I wrote the book on **fatherhood**. I’ve been trying all my life to get it right; I’m still **screwing up**. Right, Manny?
+* ***fatherhood*** n. the state of being a father
 
-> * ***fatherhood*** n. the state of being a father
->
->    * Fatherhood has been the greatest challenge of my life.
->
->    * Jerry doesn't take the responsibilities of fatherhood very seriously.
+   * Fatherhood has been the greatest challenge of my life.
 
-> * ***screw up*** -- do sth badly or spoil sth
->
->    * She realized that she had screwed up her life.
+   * Jerry doesn't take the responsibilities of fatherhood very seriously.
 
-Manny: I wrote a song about it in the car.
+* ***screw up*** -- do sth badly or spoil sth
 
-Jay: Of course you did. Uh… anyway, I’m happy for you and, uh, you should know that, uh, I’m not here to spit in your face; I’m here to blow at your back. (family’s confused) It’s supposed to sound better in Spanish.
+   * She realized that she had screwed up her life.
 
-Gloria:(repeats quote in Spanish)
 
-Cameron: Ah, that’s beautiful.
+**127. Love is what binds us through fair and stormy weather. I stand before you now with only one agenda: to let you know my heart is yours, Feldman comma Brenda.**
 
-Jay: Anyhow, Mitch…
+* ***fair*** -- adj. bright and not raining
 
-Mitchell: No, dad, it’s… (takes Lily) Do you wanna meet grandpa?
+   * a fair and breezy day 
 
-Jay: Are you kidding? She’s one of us now. Let me see your little podsticker. Hey! You’re a cutie, aren’t you? Ah.
+* ***stormy*** -- with strong winds and heavy rain or snow
 
-(Commentary)
+   * a dark and stormy night
 
-Jay: (reading Manny’s poem) “We’re from different worlds… yet we somehow fit together. Love is what binds us through **fair and stormy weather**. I stand before you now with only one **agenda**: to let you know my heart is yours, Feldman comma Brenda.” (laughs) I mean, seriously!
+* ***agenda*** -- all the things that need to be done or that need to be thought about or solved
 
-> * ***fair*** -- adj. bright and not raining
->
->    * a fair and breezy day 
->
-> * ***stormy*** -- with strong winds and heavy rain or snow
->
->    * a dark and stormy night
 
-> * ***agenda*** -- all the things that need to be done or that need to be thought about or solved
+**128. Luke so far, you know, hasn’t beaten me in basketball.**
 
-Phil: Luke so far, you know, hasn’t **beaten me in basketball**.
+* ***beat sb at/in sth***
 
-> * ***beat sb at/in sth***
->
->    * He beat me at chess.
+   * He beat me at chess.
 
-(Cut to Phil and Luke playing basketball)
 
-Phil: It’s 2-0. It’s 2-0. (proceeds to score)
+**129. Do me a favour** -- do sth for sb
 
-Phil: (after stopping Luke from scoring) Get that weak stuff out of my kitchen!
 
-Phil: **Do me a favour**, just… (distracts Luke; scores) Boom! How’s the weather down there?
+**130. when the day comes that he does win – if, you know, if, when… he beats me – I’m just gonna be like, “Well done, well done.” **
 
-> * ***do sb a favour*** -- do sth for sb
+* ***When the day comes that ...***
 
-(Commentary)
+   * When the day comes that the virus mutates its way around this, we may be in real trouble.
 
-Phil: But, when the day comes that he does win – if, you know, if, when… he beats me – I’m just gonna be like, “Well done, well done.” Just, like, let him, just support him and that kinda stuff. I mean, I’m probably gonna wanna go, like, two out of three and just see what happens there.
-
-> * ***When the day comes that ...***
->
->    * When the day comes that the virus mutates its way around this, we may be in real trouble.
-
+--------------------------
